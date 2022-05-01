@@ -54,7 +54,6 @@ def main():
                     card["stripped_text"] = strip_text(value)
                 elif label == "artist":
                     card["artist"] = value
-            card["image"] = "http://www.emergencyshutdown.net/images/onr/" + card["set_code"] + "/" + card["code"] + ".jpg"
             cards.append(card)
     json_object = json.dumps(cards, indent=4)
 
@@ -88,7 +87,8 @@ def to_code(title):
     t = r_noncode.sub("", t)
     t = r_brackets.sub("", t)
     t = r_square.sub("", t)
-    t = r_space.sub("_", t)
+    t = t.replace("-", "_")
+    t = r_space.sub("_", t.strip())
     return t
 
 ################################################################################
