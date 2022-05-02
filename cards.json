@@ -1,5 +1,5 @@
 {
-    "imageTemplate": "https://distributive.github.io/onr-images/{code}.jpg",
+    "imageUrlTemplate": "https://distributive.github.io/onr-images/{code}.jpg",
     "cards": [
         {
             "title": "\"Armadillo\" Armored Road Home",
