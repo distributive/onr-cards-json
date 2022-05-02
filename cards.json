@@ -73,7 +73,7 @@
             "cost": 9,
             "text": "1[bit]: Base link 9. Use only one base link card for each trace attempt made against you.",
             "stripped_text": "1 bit: Base link 9. Use only one base link card for each trace attempt made against you.",
-            "flavor": "\"Wilderspace is made up of those areas of the Net that have not already been catalogued into one region or another\" ---Spider Murphy",
+            "flavor": "\"Wilderspace is made up of those areas of the Net that have not already been catalogued into one region or another\" —Spider Murphy",
             "illustrator": "Mark Collen"
         },
         {
@@ -106,7 +106,7 @@
             "cost": 1,
             "text": "1[bit]: Base link 1.\n1[bit]: +1 link.\nUse only one base link card for each trace attempt made against you.",
             "stripped_text": "1 bit: Base link 1. 1 bit: +1 link. Use only one base link card for each trace attempt made against you.",
-            "flavor": "Third-World security and First-World bureaucracy---together at last.",
+            "flavor": "Third-World security and First-World bureaucracy—together at last.",
             "illustrator": "Sue Ann Harkey"
         },
         {
@@ -293,7 +293,7 @@
             "cost": 3,
             "text": "Put seven Ablative counters on Armored Fridge when it is installed. When the last Ablative counter has been removed, trash Armored Fridge. Ablative counter: Prevent 1 meat damage.",
             "stripped_text": "Put seven Ablative counters on Armored Fridge when it is installed. When the last Ablative counter has been removed, trash Armored Fridge. Ablative counter: Prevent 1 meat damage.",
-            "flavor": "\"I also once shut off the hot water line to my dishwasher and hid in there while it was running, but I'll never do that again.\" ---Rache Bartmoss",
+            "flavor": "\"I also once shut off the hot water line to my dishwasher and hid in there while it was running, but I'll never do that again.\" —Rache Bartmoss",
             "illustrator": "Kim Francisco"
         },
         {
@@ -327,7 +327,7 @@
             "agenda_points": 1,
             "text": "Difficulty of Black Ops agendas is reduced by 1.",
             "stripped_text": "Difficulty of Black Ops agendas is reduced by 1.",
-            "flavor": "\"We noticed a while ago that security directors developing cyberpsychosis---becoming less and less human---increased the effectiveness of our Black Ops dramatically. Unfortunately, they quickly became too unstable to be useful. This new program should solve all these problems, and more.\" ---Erin Devlin, WuTech COO",
+            "flavor": "\"We noticed a while ago that security directors developing cyberpsychosis—becoming less and less human—increased the effectiveness of our Black Ops dramatically. Unfortunately, they quickly became too unstable to be useful. This new program should solve all these problems, and more.\" —Erin Devlin, WuTech COO",
             "illustrator": "Fellwalker & Tolen"
         },
         {
@@ -561,7 +561,7 @@
             "strength": 5,
             "text": "2[bit]: Break sentry subroutine. 2[bit]: +1 strength.",
             "stripped_text": "2 bits: Break sentry subroutine. 2 bits: +1 strength.",
-            "flavor": "\"She broke my heart---but at least she showed it to me first.\"",
+            "flavor": "\"She broke my heart—but at least she showed it to me first.\"",
             "illustrator": "Maria P. Cabardo"
         },
         {
@@ -917,7 +917,7 @@
             "cost": 7,
             "text": "Put 3[bit] from the bank on Cloak when it is installed. Use these bits only to pay for using icebreakers during runs, but not for using noisy icebreakers. If you use any of these bits, replace them at the start of your next turn.",
             "stripped_text": "Put 3 bits from the bank on Cloak when it is installed. Use these bits only to pay for using icebreakers during runs, but not for using noisy icebreakers. If you use any of these bits, replace them at the start of your next turn.",
-            "flavor": "\"Avoid a netfight if at all possible. You never know when your fortune will turn.\" ---Spider Murphy",
+            "flavor": "\"Avoid a netfight if at all possible. You never know when your fortune will turn.\" —Spider Murphy",
             "illustrator": "Doug Shuler"
         },
         {
@@ -934,7 +934,7 @@
             "cost": 1,
             "text": "Play only if Runner is tagged. Runner loses all bits.",
             "stripped_text": "Play only if Runner is tagged. Runner loses all bits.",
-            "flavor": "\"Watch out for the blast shelters First Eurobank builds around its As. They may be great for the rubes, but if some corp has marked your account as illegal, the shelter will seal you in until the cops come.\" ---Kiyote",
+            "flavor": "\"Watch out for the blast shelters First Eurobank builds around its As. They may be great for the rubes, but if some corp has marked your account as illegal, the shelter will seal you in until the cops come.\" —Kiyote",
             "illustrator": "Randy Gallegos"
         },
         {
@@ -1118,7 +1118,7 @@
             "agenda_points": 2,
             "text": "Put 15[bit] from the bank on Corporate Coup when you score it.\n[action]: Take 3[bit] from Corporate Coup, if it has any bits.",
             "stripped_text": "Put 15 bits from the bank on Corporate Coup when you score it. action: Take 3 bits from Corporate Coup, if it has any bits.",
-            "flavor": "\"Here a new style of crime became manifest: death as administrative action.\" ---Horst Krüger",
+            "flavor": "\"Here a new style of crime became manifest: death as administrative action.\" —Horst Krüger",
             "illustrator": "Dave Pilurs"
         },
         {
@@ -1166,7 +1166,7 @@
             "cost": 0,
             "text": "At the start of each of your turns, gain 1[bit] for each agenda card stored in HQ that you show to Runner.",
             "stripped_text": "At the start of each of your turns, gain 1 bit for each agenda card stored in HQ that you show to Runner.",
-            "flavor": "\"That which does not get me fired makes me more valuable to the corporation.\" ---Dave Michaels, Microtech Special Ops",
+            "flavor": "\"That which does not get me fired makes me more valuable to the corporation.\" —Dave Michaels, Microtech Special Ops",
             "illustrator": "Roger Coad"
         },
         {
@@ -1219,7 +1219,7 @@
             "cost": 2,
             "text": "You may advance Shattered Remains before and after you rez it.\nWhen Runner accesses Shattered Remains, it destroys one piece of hardware for each advancement counter on it.",
             "stripped_text": "You may advance Shattered Remains before and after you rez it. When Runner accesses Shattered Remains, it destroys one piece of hardware for each advancement counter on it.",
-            "flavor": "\"It's not that I like screwing you up. It's just that they got me wireed so I feel the routines like bugs on my neck, so believe it, brother---I'm gonna swat!\"",
+            "flavor": "\"It's not that I like screwing you up. It's just that they got me wireed so I feel the routines like bugs on my neck, so believe it, brother—I'm gonna swat!\"",
             "illustrator": "Mark Collen"
         },
         {
@@ -1338,7 +1338,7 @@
             "strength": 3,
             "text": "[subroutine] End the run.",
             "stripped_text": "[subroutine] End the run.",
-            "flavor": "\"Yeah, the 'crystal' stuff is about as thick as walls get. But that just means the crunching noises are that much more gratifying when I hammer through it.\" ---Kiyote",
+            "flavor": "\"Yeah, the 'crystal' stuff is about as thick as walls get. But that just means the crunching noises are that much more gratifying when I hammer through it.\" —Kiyote",
             "illustrator": "John Casebeer"
         },
         {
@@ -1523,7 +1523,7 @@
             "strength": 1,
             "text": "[subroutine] End the run.",
             "stripped_text": "[subroutine] End the run.",
-            "flavor": "\"Can't those chimps in Marketing come up with a different name? This isn't just version 2.0---it's a completely different program!\"",
+            "flavor": "\"Can't those chimps in Marketing come up with a different name? This isn't just version 2.0—it's a completely different program!\"",
             "illustrator": "Jonnie Wilder"
         },
         {
@@ -1601,7 +1601,7 @@
             "cost": 1,
             "text": "When Runner accesses Dedicated Response Team, it does 3 meat damage. Ignore this effect unless Runner is tagged.",
             "stripped_text": "When Runner accesses Dedicated Response Team, it does 3 meat damage. Ignore this effect unless Runner is tagged.",
-            "flavor": "\"Excuse me---that's my beeper.\"",
+            "flavor": "\"Excuse me—that's my beeper.\"",
             "illustrator": "Pete Venters"
         },
         {
@@ -1634,7 +1634,7 @@
             "cost": 2,
             "text": "[action]: Put 3[bit] from the bank on Department of Truth Enhancement.\n[action]: Take all the bits from Department of Truth Enhancement.",
             "stripped_text": "action: Put 3 bits from the bank on Department of Truth Enhancement. action: Take all the bits from Department of Truth Enhancement.",
-            "flavor": "\"We don't lie. We use statistics.\" ---Scott H. Warner, Department Coordinator",
+            "flavor": "\"We don't lie. We use statistics.\" —Scott H. Warner, Department Coordinator",
             "illustrator": "Matt Wilson"
         },
         {
@@ -2124,7 +2124,7 @@
             "strength": 4,
             "text": "[subroutine] Trace 4-If trace is successful, end the run, and Runner cannot run again until Runner takes an action to pay 2[bit].",
             "stripped_text": "[subroutine] Trace 4-If trace is successful, end the run, and Runner cannot run again until Runner takes an action to pay 2 bits.",
-            "flavor": "\"We provide guide dogs for the morally blind.\" ---Arthur Cohn, JYD Security Enterprises",
+            "flavor": "\"We provide guide dogs for the morally blind.\" —Arthur Cohn, JYD Security Enterprises",
             "illustrator": "Kim Francisco"
         },
         {
@@ -2279,7 +2279,7 @@
             "cost": 2,
             "text": "Prevents up to 2 Net and/or brain damage total each turn.",
             "stripped_text": "Prevents up to 2 Net and/or brain damage total each turn.",
-            "flavor": "\"Never use 'em; don't need 'em. My brain's been smoked so much that my myelin's vulcanized. That's why my ears are always dirty.\" ---Rache Bartmoss",
+            "flavor": "\"Never use 'em; don't need 'em. My brain's been smoked so much that my myelin's vulcanized. That's why my ears are always dirty.\" —Rache Bartmoss",
             "illustrator": "Doug Shuler"
         },
         {
@@ -2543,7 +2543,7 @@
             "strength": 5,
             "text": "[subroutine] Trace 5-If trace is successful, end the run, trash a piece of hardware, and do 2 meat damage. This damage cannot be prevented.",
             "stripped_text": "[subroutine] Trace 5-If trace is successful, end the run, trash a piece of hardware, and do 2 meat damage. This damage cannot be prevented.",
-            "flavor": "\"It does more than discourage intrusions---it keeps our fire department contract in the black.\"",
+            "flavor": "\"It does more than discourage intrusions—it keeps our fire department contract in the black.\"",
             "illustrator": "Mark Tedin"
         },
         {
@@ -2575,7 +2575,7 @@
             "cost": 0,
             "text": "Score 1 agenda point if you liberated any Black Ops agendas this turn.",
             "stripped_text": "Score 1 agenda point if you liberated any Black Ops agendas this turn.",
-            "flavor": "\"A plot to assassinate Elvis---bizarre but true, and we'll tell you all about it at eleven.\"",
+            "flavor": "\"A plot to assassinate Elvis—bizarre but true, and we'll tell you all about it at eleven.\"",
             "illustrator": "Sue Ann Harkey"
         },
         {
@@ -2589,7 +2589,7 @@
             "cost": 4,
             "text": "Whenever you access cards from HQ, access an additional card from HQ.",
             "stripped_text": "Whenever you access cards from HQ, access an additional card from HQ.",
-            "flavor": "\"...from Arasaka to Cuernavaca to Oaxaca---to me the gear does come.\"",
+            "flavor": "\"...from Arasaka to Cuernavaca to Oaxaca—to me the gear does come.\"",
             "illustrator": "Lawrence Brown"
         },
         {
@@ -2606,7 +2606,7 @@
             "cost": 1,
             "text": "Expose up to three installed cards.",
             "stripped_text": "Expose up to three installed cards.",
-            "flavor": "\"The Hunt Club got its name from the original programmers, who were self-described 'hunters,' corporate programmers who moonlighted as freelance counter-intrusion agents.\" ---Rache Bartmoss",
+            "flavor": "\"The Hunt Club got its name from the original programmers, who were self-described 'hunters,' corporate programmers who moonlighted as freelance counter-intrusion agents.\" —Rache Bartmoss",
             "illustrator": "Anthony Petrarca"
         },
         {
@@ -2667,7 +2667,7 @@
             "cost": 0,
             "text": "Expose the outermost ice of each data fort.",
             "stripped_text": "Expose the outermost ice of each data fort.",
-            "flavor": "\"Meet the ice without hitting the skids.\" ---Advert",
+            "flavor": "\"Meet the ice without hitting the skids.\" —Advert",
             "illustrator": "Sue Ann Harkey"
         },
         {
@@ -2781,7 +2781,7 @@
             "cost": 2,
             "text": "Make a run. You automatically pass the first piece of ice you encounter during that run.",
             "stripped_text": "Make a run. You automatically pass the first piece of ice you encounter during that run.",
-            "flavor": "\"Preparation beats expiration, if you ask me.\" ---Edger",
+            "flavor": "\"Preparation beats expiration, if you ask me.\" —Edger",
             "illustrator": "Ernie Chan"
         },
         {
@@ -3256,7 +3256,7 @@
             "strength": 5,
             "text": "[subroutine] End the run.",
             "stripped_text": "[subroutine] End the run.",
-            "flavor": "\"Some Greek software house makes a variant that includes a killer with a minotaur motif. If you take too long to get through, it sics the minotaur on you, instead of cutting your connection. Lame clichés never die, I guess.\" ---Spider Murphy",
+            "flavor": "\"Some Greek software house makes a variant that includes a killer with a minotaur motif. If you take too long to get through, it sics the minotaur on you, instead of cutting your connection. Lame clichés never die, I guess.\" —Spider Murphy",
             "illustrator": "Daniel Gelon"
         },
         {
@@ -3330,7 +3330,7 @@
             "cost": 0,
             "text": "Trash any number of your installed cards. Gain 3[bit] for each card trashed in this way.",
             "stripped_text": "Trash any number of your installed cards. Gain 3 bits for each card trashed in this way.",
-            "flavor": "\"Why throw it away when you can convince some half-brained weef to use it for creative suicide instead?\" ---Rache Bartmoss",
+            "flavor": "\"Why throw it away when you can convince some half-brained weef to use it for creative suicide instead?\" —Rache Bartmoss",
             "illustrator": "Robert McLees"
         },
         {
@@ -3360,7 +3360,7 @@
             "cost": 2,
             "text": "[action]: Expose a card installed inside a data fort.",
             "stripped_text": "action: Expose a card installed inside a data fort.",
-            "flavor": "\"If a man... make a better mousetrap than his neighbor, tho' he build his house in the woods, the world will make a beaten path to his door.\" ---Ralph Waldo Emerson, quoted by Sarah S.B. Yule, Borrowings",
+            "flavor": "\"If a man... make a better mousetrap than his neighbor, tho' he build his house in the woods, the world will make a beaten path to his door.\" —Ralph Waldo Emerson, quoted by Sarah S.B. Yule, Borrowings",
             "illustrator": "Mark Collen"
         },
         {
@@ -3378,7 +3378,7 @@
             "cost": 1,
             "text": "Hand size +2",
             "stripped_text": "Hand size +2",
-            "flavor": "\"Your brain's just like any other appliance, chummer. Works better if you plug it in.\" ---Joey Two-Tails",
+            "flavor": "\"Your brain's just like any other appliance, chummer. Works better if you plug it in.\" —Joey Two-Tails",
             "illustrator": "Doug Chaffee"
         },
         {
@@ -3455,7 +3455,7 @@
             "strength": 4,
             "text": "[subroutine] Do 2 Net damage.\n[subroutine] End the run.",
             "stripped_text": "[subroutine] Do 2 Net damage. [subroutine] End the run.",
-            "flavor": "\"If you're authorized, it's a smooth ride through; if you're not, you get the brain-twist of someone else's idea of normalcy.\" ---Spider Murphy\n\"But it's a great training ground for navigating wilderspace.\" ---Rache Bartmoss",
+            "flavor": "\"If you're authorized, it's a smooth ride through; if you're not, you get the brain-twist of someone else's idea of normalcy.\" —Spider Murphy\n\"But it's a great training ground for navigating wilderspace.\" —Rache Bartmoss",
             "illustrator": "Anson Maddocks"
         },
         {
@@ -3673,7 +3673,7 @@
             "cost": 0,
             "text": "Swap a piece of unrezzed ice on this fort with an ice card stored in HQ. The new ice card comes into play concealed. Use this ability only once during each run on this fort.",
             "stripped_text": "Swap a piece of unrezzed ice on this fort with an ice card stored in HQ. The new ice card comes into play concealed. Use this ability only once during each run on this fort.",
-            "flavor": "\"What the...?! That wasn't in the plans!\" ---Epitaph",
+            "flavor": "\"What the...?! That wasn't in the plans!\" —Epitaph",
             "illustrator": "Doug Shuler"
         },
         {
@@ -3863,7 +3863,7 @@
             "cost": 4,
             "text": "Provides +1 MU.\nPut 3[bit] from the bank on PK-6089a when it is installed. Use these bits only to pay for increasing your link. If you use any of these bits, replace them at the start of your next turn.\nOnly one deck can be in play at a time. Trash any older decks.",
             "stripped_text": "Provides +1 MU. Put 3 bits from the bank on PK-6089a when it is installed. Use these bits only to pay for increasing your link. If you use any of these bits, replace them at the start of your next turn. Only one deck can be in play at a time. Trash any older decks.",
-            "flavor": "\"Hey, this sucker can keep your deadline from becoming a flatline.\" ---Dog",
+            "flavor": "\"Hey, this sucker can keep your deadline from becoming a flatline.\" —Dog",
             "illustrator": "Chris Vande Voort"
         },
         {
@@ -3880,7 +3880,7 @@
             "cost": 0,
             "text": "Look at the top five cards of R&D and arrange them in any order you choose.",
             "stripped_text": "Look at the top five cards of R&D and arrange them in any order you choose.",
-            "flavor": "\"Chance favors the prepared mind.\" ---Sir Isaac Newton",
+            "flavor": "\"Chance favors the prepared mind.\" —Sir Isaac Newton",
             "illustrator": "Christina Wald"
         },
         {
@@ -3898,7 +3898,7 @@
             "cost": 1,
             "text": "Roll a die. On a 1, 2, or 3, gain that many bits, set aside that many dice to roll again, or choose some combination thereof. Repeat until you have rolled all the dice you set aside.",
             "stripped_text": "Roll a die. On a 1, 2, or 3, gain that many bits, set aside that many dice to roll again, or choose some combination thereof. Repeat until you have rolled all the dice you set aside.",
-            "flavor": "\"Gaming is a mode of transferring properly without producing any intermediate good.\" ---Samuel Johnson",
+            "flavor": "\"Gaming is a mode of transferring properly without producing any intermediate good.\" —Samuel Johnson",
             "illustrator": "Pete Venters"
         },
         {
@@ -3933,7 +3933,7 @@
             "agenda_points": 2,
             "text": "Put 12[bit] from the bank on Political Coup when you score it.\n[action]: Take 3[bit] from Political Coup, if it has any bits.",
             "stripped_text": "Put 12 bits from the bank on Political Coup when you score it. action: Take 3 bits from Political Coup, if it has any bits.",
-            "flavor": "\"Assassination is the extreme form of censorship.\" ---George Bernard Shaw, The Rejected Statement",
+            "flavor": "\"Assassination is the extreme form of censorship.\" —George Bernard Shaw, The Rejected Statement",
             "illustrator": "Ernie Chan"
         },
         {
@@ -4065,7 +4065,7 @@
             "cost": 0,
             "text": "Make a run on HQ. If run is successful, do not access cards from HQ; instead, pay any number of bits to force the Corp to lose that many bits.",
             "stripped_text": "Make a run on HQ. If run is successful, do not access cards from HQ; instead, pay any number of bits to force the Corp to lose that many bits.",
-            "flavor": "\"Your personal icon is unrecognized, Chairman; I cannot process this file. Please input authorization code within---Thank you. Filename 'Suckers!' overwrite of HQ datacore commencing as requested.\"",
+            "flavor": "\"Your personal icon is unrecognized, Chairman; I cannot process this file. Please input authorization code within—Thank you. Filename 'Suckers!' overwrite of HQ datacore commencing as requested.\"",
             "illustrator": "Dave Pilurs"
         },
         {
@@ -4143,7 +4143,7 @@
             "cost": 0,
             "text": "Play only if Runner is tagged. Do 2 meat damage.",
             "stripped_text": "Play only if Runner is tagged. Do 2 meat damage.",
-            "flavor": "\"Violence isn't always the best approach, but it's often the most direct.\" ---Anonymous WuTech VP",
+            "flavor": "\"Violence isn't always the best approach, but it's often the most direct.\" —Anonymous WuTech VP",
             "illustrator": "Dave Pilurs"
         },
         {
@@ -4161,7 +4161,7 @@
             "strength": 2,
             "text": "[subroutine] End the run.",
             "stripped_text": "[subroutine] End the run.",
-            "flavor": "\"So many decisions, so little ti---\"",
+            "flavor": "\"So many decisions, so little ti—\"",
             "illustrator": "Daniel Gelon"
         },
         {
@@ -4271,7 +4271,7 @@
             "strength": 1,
             "text": "2[bit]: Break sentry subroutine.\n1[bit]: +1 strength",
             "stripped_text": "2 bits: Break sentry subroutine. 1 bit: +1 strength",
-            "flavor": "\"There's nothing quite like the screech of a Raptor echoing through the data halls as it sweeps in for a kill.\" ---Kiyote",
+            "flavor": "\"There's nothing quite like the screech of a Raptor echoing through the data halls as it sweeps in for a kill.\" —Kiyote",
             "illustrator": "Higgins & King"
         },
         {
@@ -4366,7 +4366,7 @@
             "strength": 4,
             "text": "0[bit]: Break stun, hellbolt, or knockout subroutine.",
             "stripped_text": "0 bits: Break stun, hellbolt, or knockout subroutine.",
-            "flavor": "\"This icebreaker is basically a last-ditch defense for when your Killers aren't getting the job done. It takes advantage of a design flaw in these sorts of ice to reflect their unique signal back at them, crashing their detection routines.\" ---Digital Dana",
+            "flavor": "\"This icebreaker is basically a last-ditch defense for when your Killers aren't getting the job done. It takes advantage of a design flaw in these sorts of ice to reflect their unique signal back at them, crashing their detection routines.\" —Digital Dana",
             "illustrator": "Kevin Taylor"
         },
         {
@@ -4400,7 +4400,7 @@
             "cost": 5,
             "text": "Gain an action during each of your turns.",
             "stripped_text": "Gain an action during each of your turns.",
-            "flavor": "\"While moving corporate operations to a remote location increases processing costs, it becomes easier to defend vital information against attempts at hostile acquisition.\" ---David Samms, corporate consultant",
+            "flavor": "\"While moving corporate operations to a remote location increases processing costs, it becomes easier to defend vital information against attempts at hostile acquisition.\" —David Samms, corporate consultant",
             "illustrator": "Chris Vande Voort"
         },
         {
@@ -4496,7 +4496,7 @@
             "cost": 1,
             "text": "Roll a die whenever Runner passes a piece of rezzed ice during a run on this fort. On a 1, end the run.\nRez a region when you install it.\nInstall a region only if you can pay to rez it.\nOnly one region may be installed in each fort. Trash older ones.",
             "stripped_text": "Roll a die whenever Runner passes a piece of rezzed ice during a run on this fort. On a 1, end the run. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
-            "flavor": "\"There's a new jungle in Brazil---the rusted-wire maze of telecom retrotech. Prepare to have your line dropped, and dropped, and dropped, and...\"",
+            "flavor": "\"There's a new jungle in Brazil—the rusted-wire maze of telecom retrotech. Prepare to have your line dropped, and dropped, and dropped, and...\"",
             "illustrator": "Pete Venters"
         },
         {
@@ -4547,7 +4547,7 @@
             "cost": 2,
             "text": "Make a run on HQ; you may trash, at no cost, any cards you access that were stored in HQ, even if the cards cannot normally be trashed.",
             "stripped_text": "Make a run on HQ; you may trash, at no cost, any cards you access that were stored in HQ, even if the cards cannot normally be trashed.",
-            "flavor": "\"I love the sound of screaming crystal. Sadly, I seem to be the only one to hear it.\" ---Rache Bartmoss",
+            "flavor": "\"I love the sound of screaming crystal. Sadly, I seem to be the only one to hear it.\" —Rache Bartmoss",
             "illustrator": "Kevin Taylor"
         },
         {
@@ -4657,7 +4657,7 @@
             "cost": 5,
             "text": "Gain 9[bit]",
             "stripped_text": "Gain 9 bits",
-            "flavor": "\"If someone has consistently good luck, it ain't luck.\" ---Spider Murphy",
+            "flavor": "\"If someone has consistently good luck, it ain't luck.\" —Spider Murphy",
             "illustrator": "Zak Plucinski"
         },
         {
@@ -4742,7 +4742,7 @@
             "cost": 3,
             "text": "[action], 1[bit]: Expose an installed card.",
             "stripped_text": "action, 1 bit: Expose an installed card.",
-            "flavor": "\"It's like a pair of magic specs.\" ---Urza Bloodrunner",
+            "flavor": "\"It's like a pair of magic specs.\" —Urza Bloodrunner",
             "illustrator": "Mark Collen"
         },
         {
@@ -4756,7 +4756,7 @@
             "cost": 2,
             "text": "[trash]: Search your stack for a program and install that program, if you can. Shuffle your stack afterwards. Use this ability only during a run.",
             "stripped_text": "trash: Search your stack for a program and install that program, if you can. Shuffle your stack afterwards. Use this ability only during a run.",
-            "flavor": "\"Now, if I could just do this with my DNA... on the fly... while eating.\" ---Rache Bartmoss",
+            "flavor": "\"Now, if I could just do this with my DNA... on the fly... while eating.\" —Rache Bartmoss",
             "illustrator": "Jonnie Wilder"
         },
         {
@@ -4858,7 +4858,7 @@
             "cost": 1,
             "text": "Put 12[bit] from the bank on Short-Term Contract when it is installed. When all the bits have been removed, trash Short-Term Contract.\n[action]: Take 2[bit] from Short-Term Contract.",
             "stripped_text": "Put 12 bits from the bank on Short-Term Contract when it is installed. When all the bits have been removed, trash Short-Term Contract. action: Take 2 bits from Short-Term Contract.",
-            "flavor": "\"Contrary to popular opinion, we are productive members of society. We just moonlight as data raiders.\" ---Spider Murphy",
+            "flavor": "\"Contrary to popular opinion, we are productive members of society. We just moonlight as data raiders.\" —Spider Murphy",
             "illustrator": "James Allen Higgins"
         },
         {
@@ -5167,7 +5167,7 @@
             "agenda_points": 3,
             "text": "[action]: Do 2 meat damage. Use this ability only if Runner is tagged.",
             "stripped_text": "action: Do 2 meat damage. Use this ability only if Runner is tagged.",
-            "flavor": "\"What's it mean? Kali's a hellacious goddess of destruction with multiple hands---you figure it out.\"",
+            "flavor": "\"What's it mean? Kali's a hellacious goddess of destruction with multiple hands—you figure it out.\"",
             "illustrator": "Richard Thomas"
         },
         {
@@ -5181,7 +5181,7 @@
             "cost": 2,
             "text": "Make a run. You have +9 link for every trace attempt made during that run.",
             "stripped_text": "Make a run. You have +9 link for every trace attempt made during that run.",
-            "flavor": "\"So I guess what Wilderspace really is to me is the Net in the raw.\" ---Edger, \"Wilderspace is Nothing\"",
+            "flavor": "\"So I guess what Wilderspace really is to me is the Net in the raw.\" —Edger, \"Wilderspace is Nothing\"",
             "illustrator": "Sue Ann Harkey"
         },
         {
@@ -5411,7 +5411,7 @@
             "cost": 0,
             "text": "1[bit]: +1 link. Use this ability only once during each trace attempt, and only after you and the Corp have revealed how much each of you spent.",
             "stripped_text": "1 bit: +1 link. Use this ability only once during each trace attempt, and only after you and the Corp have revealed how much each of you spent.",
-            "flavor": "\"Blow 600 eb or risk blowing your cortex---it's your choice.\" ---Springboard advertisement",
+            "flavor": "\"Blow 600 eb or risk blowing your cortex—it's your choice.\" —Springboard advertisement",
             "illustrator": "Sue Ann Harkey"
         },
         {
@@ -5449,7 +5449,7 @@
             "strength": 4,
             "text": "[subroutine] End the run, and Runner forgoes his or her next action.",
             "stripped_text": "[subroutine] End the run, and Runner forgoes his or her next action.",
-            "flavor": "\"There's nothing like a right hook to the left side of your brain to throw you for a loop.\" ---Digital Dana",
+            "flavor": "\"There's nothing like a right hook to the left side of your brain to throw you for a loop.\" —Digital Dana",
             "illustrator": "John Casebeer"
         },
         {
@@ -5668,7 +5668,7 @@
             "cost": 0,
             "text": "[trash]: Prevent an installed program or hardware card from being trashed.",
             "stripped_text": "trash: Prevent an installed program or hardware card from being trashed.",
-            "flavor": "\"I cashed in their warranty when my utility was trashed by their own ice!\" ---Spider Murphy",
+            "flavor": "\"I cashed in their warranty when my utility was trashed by their own ice!\" —Spider Murphy",
             "illustrator": "Zak Plucinski"
         },
         {
@@ -5763,7 +5763,7 @@
             "cost": 4,
             "text": "Put 2[bit] from the bank on Vewy Vewy Quiet when it is installed. Use these bits only to pay for using icebreakers during runs, but not for using noisy icebreakers. If you use any of these bits, replace them at the start of your next turn.",
             "stripped_text": "Put 2 bits from the bank on Vewy Vewy Quiet when it is installed. Use these bits only to pay for using icebreakers during runs, but not for using noisy icebreakers. If you use any of these bits, replace them at the start of your next turn.",
-            "flavor": "\"You know what I like? Sneaking all the way in, and then barking all the way out!\" ---Dog",
+            "flavor": "\"You know what I like? Sneaking all the way in, and then barking all the way out!\" —Dog",
             "illustrator": "Kevin Taylor"
         },
         {
@@ -5949,7 +5949,7 @@
             "strength": 2,
             "text": "0[bit]: Break wall subroutine.\n3[bit]: +1 strength.",
             "stripped_text": "0 bits: Break wall subroutine. 3 bits: +1 strength.",
-            "flavor": "\"It's hard to describe---but don't eat anything just before you watch it go into action.\"",
+            "flavor": "\"It's hard to describe—but don't eat anything just before you watch it go into action.\"",
             "illustrator": "Anson Maddocks"
         },
         {
@@ -5966,7 +5966,7 @@
             "cost": 1,
             "text": "Provides +1 MU.",
             "stripped_text": "Provides +1 MU.",
-            "flavor": "\"Here at WuTech, we take pride in our quest to make memory cheaper than water.\" ---Erin Devlin, WuTech COO",
+            "flavor": "\"Here at WuTech, we take pride in our quest to make memory cheaper than water.\" —Erin Devlin, WuTech COO",
             "illustrator": "Jonnie Wilder"
         },
         {
@@ -6148,7 +6148,7 @@
             "strength": 3,
             "text": "[subroutine] Roll a die. On a 1, do 3 brain damage.",
             "stripped_text": "[subroutine] Roll a die. On a 1, do 3 brain damage.",
-            "flavor": "\"Weefs never look 'up.'\" ---Edger",
+            "flavor": "\"Weefs never look 'up.'\" —Edger",
             "illustrator": "David Ho"
         },
         {
@@ -6217,7 +6217,7 @@
             "agenda_points": 2,
             "text": "Put a Remap counter on Data Fort Remapping when you score it.\nRemap Counter: End a run.",
             "stripped_text": "Put a Remap counter on Data Fort Remapping when you score it. Remap Counter: End a run.",
-            "flavor": "\"In netspace, the map is often the territory. That's just one more reason we don't hire philosophy grads.\" ---Dave Michaels",
+            "flavor": "\"In netspace, the map is often the territory. That's just one more reason we don't hire philosophy grads.\" —Dave Michaels",
             "illustrator": "John Sledd"
         },
         {
@@ -6291,7 +6291,7 @@
             "strength": 2,
             "text": "1[bit]: Break wall subroutine.\n2[bit]: +3 strength",
             "stripped_text": "1 bit: Break wall subroutine. 2 bits: +3 strength",
-            "flavor": "\"The Early Worm gets the bird... from corporate sysops.\" ---Al Boone",
+            "flavor": "\"The Early Worm gets the bird... from corporate sysops.\" —Al Boone",
             "illustrator": "James Allen"
         },
         {
@@ -6546,7 +6546,7 @@
             "strength": 2,
             "text": "1[bit]: Break sentry subroutine.\n1[bit]: +1 strength\nThe first time during each run that you break a sentry subroutine with MS-todon, lose all bits from all stealth cards, if you can, and the Corp gives you a tag.",
             "stripped_text": "1 bit: Break sentry subroutine. 1 bit: +1 strength The first time during each run that you break a sentry subroutine with MS-todon, lose all bits from all stealth cards, if you can, and the Corp gives you a tag.",
-            "flavor": "This isn't running---it's stomping.",
+            "flavor": "This isn't running—it's stomping.",
             "illustrator": "Doug Shuler"
         },
         {
@@ -6600,7 +6600,7 @@
             "cost": 0,
             "text": "Your base MU is equal to the number of cards in your hand instead of 4.",
             "stripped_text": "Your base MU is equal to the number of cards in your hand instead of 4.",
-            "flavor": "\"Now with reduced long-term memory loss!\" ---Rejected marketing slogan",
+            "flavor": "\"Now with reduced long-term memory loss!\" —Rejected marketing slogan",
             "illustrator": "Terese Nielsen"
         },
         {
@@ -6759,7 +6759,7 @@
             "cost": 2,
             "text": "Whenever you access cards from HQ, expose all of the Corp's installed cards.",
             "stripped_text": "Whenever you access cards from HQ, expose all of the Corp's installed cards.",
-            "flavor": "\"Not only is the map the terrain---sometimes you can only get places by folding the map.\" ---Edgar",
+            "flavor": "\"Not only is the map the terrain—sometimes you can only get places by folding the map.\" —Edgar",
             "illustrator": "Doug Shuler"
         },
         {
@@ -6795,7 +6795,7 @@
             "cost": 2,
             "text": "When Runner accesses Shock Treatment, trash all pieces of hardware and two programs. Ignore this effect unless Runner has four or more tags.",
             "stripped_text": "When Runner accesses Shock Treatment, trash all pieces of hardware and two programs. Ignore this effect unless Runner has four or more tags.",
-            "flavor": "\"Yo, Bob, red light. Bob? Red light! Bob, c'mon---I'm serious! GAH! Now there's a <em>fire</em> and a red light! Bob?\"",
+            "flavor": "\"Yo, Bob, red light. Bob? Red light! Bob, c'mon—I'm serious! GAH! Now there's a <em>fire</em> and a red light! Bob?\"",
             "illustrator": "Doug Chaffee"
         },
         {
@@ -6810,7 +6810,7 @@
             "cost": 0,
             "text": "3[bit], [trash]: Choose a piece of ice. That ice's strength is doubled until end of turn. If this would raise the ice's strength above 10, ist strength becomes 10.",
             "stripped_text": "3 bits, trash: Choose a piece of ice. That ice's strength is doubled until end of turn. If this would raise the ice's strength above 10, ist strength becomes 10.",
-            "flavor": "\"Runners love this one like bikers adore wires across roads.\" ---Norman Niemann, WuTech security director",
+            "flavor": "\"Runners love this one like bikers adore wires across roads.\" —Norman Niemann, WuTech security director",
             "illustrator": "Kino"
         },
         {
@@ -6861,7 +6861,7 @@
             "cost": 2,
             "text": "[trash]: Derez a piece of ice. Use this ability only if you have just broken all the subroutines of that piece of ice.",
             "stripped_text": "trash: Derez a piece of ice. Use this ability only if you have just broken all the subroutines of that piece of ice.",
-            "flavor": "\"Epoxy both your houses!\" ---Bard",
+            "flavor": "\"Epoxy both your houses!\" —Bard",
             "illustrator": "James Allen"
         },
         {
@@ -6990,7 +6990,7 @@
             "cost": 3,
             "text": "Put 1[bit] from the bank on Zetatech Portostation when it is installed. Use this bit only to pay for playing preps. If you use the bit, replace it from the bank at the start of your next turn.",
             "stripped_text": "Put 1 bit from the bank on Zetatech Portostation when it is installed. Use this bit only to pay for playing preps. If you use the bit, replace it from the bank at the start of your next turn.",
-            "flavor": "\"Zetatech. All you need is a brain, a deck, and a friend.\" ---Short-lived WNS ad campaign",
+            "flavor": "\"Zetatech. All you need is a brain, a deck, and a friend.\" —Short-lived WNS ad campaign",
             "illustrator": "Brice Parker"
         },
         {
@@ -7307,7 +7307,7 @@
             "strength": 5,
             "text": "[subroutine] End the run.\nWhen you rez Caryatid, you may pay 1[bit], above the rez cost, to make it a code gate instead of a wall.",
             "stripped_text": "[subroutine] End the run. When you rez Caryatid, you may pay 1 bit, above the rez cost, to make it a code gate instead of a wall.",
-            "flavor": "\"All the form and twice the function of our previous model---the Galatea.\"",
+            "flavor": "\"All the form and twice the function of our previous model—the Galatea.\"",
             "illustrator": "Mike Kimble"
         },
         {
@@ -7345,7 +7345,7 @@
             "cost": 0,
             "text": "1[bit], [trash]: Gain 4[bit]. You may use this ability whenever you pay any cost or penalty.\nHidden resources are installed face down, but are put into the trash face up.",
             "stripped_text": "1 bit, trash: Gain 4 bits. You may use this ability whenever you pay any cost or penalty. Hidden resources are installed face down, but are put into the trash face up.",
-            "flavor": "\"We keep your money safe ~~by~~ <em>from</em> prying eyes.\" ---Chiba Mutual prospectus, edited draft for English-speaking investors",
+            "flavor": "\"We keep your money safe ~~by~~ <em>from</em> prying eyes.\" —Chiba Mutual prospectus, edited draft for English-speaking investors",
             "illustrator": "Matt Wilson"
         },
         {
@@ -7566,7 +7566,7 @@
             "cost": 0,
             "text": "Gain 1[bit] and draw two cards.",
             "stripped_text": "Gain 1 bit and draw two cards.",
-            "flavor": "\"Back home on the bayou, before it dried up, the good ole boys would ambush federal patrolmen just to try out their new cyberware. Now we bushwhack stray Netwatch goons just to try out our new programs. Some things just don't go out of style.\" ---Digital Dana",
+            "flavor": "\"Back home on the bayou, before it dried up, the good ole boys would ambush federal patrolmen just to try out their new cyberware. Now we bushwhack stray Netwatch goons just to try out our new programs. Some things just don't go out of style.\" —Digital Dana",
             "illustrator": "David Logan"
         },
         {
@@ -7690,7 +7690,7 @@
             "cost": 0,
             "text": "Make a run. Whenever you approach an unrezzed piece of ice during that run, expose it. You may jack out before the Corp decides whether to rez the ice.",
             "stripped_text": "Make a run. Whenever you approach an unrezzed piece of ice during that run, expose it. You may jack out before the Corp decides whether to rez the ice.",
-            "flavor": "\"Neat piece of code. Reminds me of a weef I used to know.\" ---Max Forward",
+            "flavor": "\"Neat piece of code. Reminds me of a weef I used to know.\" —Max Forward",
             "illustrator": "John Sledd"
         },
         {
@@ -7865,7 +7865,7 @@
             "cost": 0,
             "text": "1[bit]: Prevent up to 2 Net damage.\n1[bit]: Prevent 1 brain damage.",
             "stripped_text": "1 bit: Prevent up to 2 Net damage. 1 bit: Prevent 1 brain damage.",
-            "flavor": "\"I know I always feel more enterprising when my shields are up.\" ---Advert",
+            "flavor": "\"I know I always feel more enterprising when my shields are up.\" —Advert",
             "illustrator": "Mark Rattin"
         },
         {
@@ -8241,7 +8241,7 @@
             "cost": 3,
             "text": "Expose up to five cards installed in or on a single data fort.",
             "stripped_text": "Expose up to five cards installed in or on a single data fort.",
-            "flavor": "\"Max Forward is a freelance writer and netrunner, and has recently made available to the runner community the icebreaker technology he describes.\" ---contributor's bio",
+            "flavor": "\"Max Forward is a freelance writer and netrunner, and has recently made available to the runner community the icebreaker technology he describes.\" —contributor's bio",
             "illustrator": "David Logan"
         },
         {
@@ -8701,7 +8701,7 @@
             "cost": 2,
             "text": "Install Pavit only in a subsidiary data fort.\nWhen you rez Pavit, uninstall all cards installed in this fort and store them in HQ. Install an equal number of cards from HQ in this fort.\nRez Pavit only when Runner has passed the last piece of ice on this fort.",
             "stripped_text": "Install Pavit only in a subsidiary data fort. When you rez Pavit, uninstall all cards installed in this fort and store them in HQ. Install an equal number of cards from HQ in this fort. Rez Pavit only when Runner has passed the last piece of ice on this fort.",
-            "flavor": "\"Pavit\" means \"pious\"---but hey, it's not like any parents <em>predict</em> their kid will grow up to be a ruthless security agent.",
+            "flavor": "\"Pavit\" means \"pious\"—but hey, it's not like any parents <em>predict</em> their kid will grow up to be a ruthless security agent.",
             "illustrator": "Zak Plucinski"
         },
         {
@@ -8716,7 +8716,7 @@
             "cost": 1,
             "text": "Make a run on each data fort. Score 1 agenda point if all the runs are successful. Forgo your next action if any of the runs are not successful.",
             "stripped_text": "Make a run on each data fort. Score 1 agenda point if all the runs are successful. Forgo your next action if any of the runs are not successful.",
-            "flavor": "\"It's scary how ineffective the law is these days. It used to be that we could turn corporate dirt over to the Feds, and let them do the rest of the network. Nowadays we have to do everything ourselves.\" ---Digital Dana",
+            "flavor": "\"It's scary how ineffective the law is these days. It used to be that we could turn corporate dirt over to the Feds, and let them do the rest of the network. Nowadays we have to do everything ourselves.\" —Digital Dana",
             "illustrator": "Ciro Tota"
         },
         {
@@ -8768,7 +8768,7 @@
             "cost": 0,
             "text": "The next time you access an agenda this turn, gain 6[bit].",
             "stripped_text": "The next time you access an agenda this turn, gain 6 bits.",
-            "flavor": "\"Maybe you and I could---\"\n\"Keep it simple, stupid.\"",
+            "flavor": "\"Maybe you and I could—\"\n\"Keep it simple, stupid.\"",
             "illustrator": "David Seeley"
         },
         {
@@ -8856,7 +8856,7 @@
             "cost": 0,
             "text": "4[bit], [trash]: Access two additional cards from R&D. Use this ability only when accessing cards from R&D.\nHidden resources are installed face down, but are put into the trash face up.",
             "stripped_text": "4 bits, trash: Access two additional cards from R&D. Use this ability only when accessing cards from R&D. Hidden resources are installed face down, but are put into the trash face up.",
-            "flavor": "\"Don't worry---you'll have the time. The new game on the system will keep them distracted for hours.\"",
+            "flavor": "\"Don't worry—you'll have the time. The new game on the system will keep them distracted for hours.\"",
             "illustrator": "Rick Berry"
         },
         {
@@ -8874,7 +8874,7 @@
             "cost": 4,
             "text": "After Runner passes each piece of ice on this fort, Runner must pay 1[bit] or end the run.",
             "stripped_text": "After Runner passes each piece of ice on this fort, Runner must pay 1 bit or end the run.",
-            "flavor": "\"Fifty for the Shotgun Wire, twenty to get past the Filter---even the Hellhound wanted a cool three hundred! That place is worse than a third-world bureaucracy! We should seriously rethink their merger proposal.\" ---Erin Devlin, WuTech COO",
+            "flavor": "\"Fifty for the Shotgun Wire, twenty to get past the Filter—even the Hellhound wanted a cool three hundred! That place is worse than a third-world bureaucracy! We should seriously rethink their merger proposal.\" —Erin Devlin, WuTech COO",
             "illustrator": "Brice Parker"
         },
         {
@@ -8944,7 +8944,7 @@
             "cost": 7,
             "text": "Play only if you made a successful run on a data fort this turn. Trash all rezzed ice on that fort, and the Corp gives you three tags.",
             "stripped_text": "Play only if you made a successful run on a data fort this turn. Trash all rezzed ice on that fort, and the Corp gives you three tags.",
-            "flavor": "It takes a long time---hundred of milliseconds!---to feed all the ice specs to the planted viruses, so you'd better be riding a Nasuko cycle through the fourth dimension, because the Corp has your number!",
+            "flavor": "It takes a long time—hundred of milliseconds!—to feed all the ice specs to the planted viruses, so you'd better be riding a Nasuko cycle through the fourth dimension, because the Corp has your number!",
             "illustrator": "Norm Dwyer"
         },
         {
@@ -9193,7 +9193,7 @@
             "cost": 3,
             "text": "Rez Siren when you install it. Install Siren only if you can pay to rez it.\n1[bit]: Runner must make a run on the fort Siren is installed in, if possible, instead of on the fort he or she was originally going to make a run on. Use this ability only at the start of a run.",
             "stripped_text": "Rez Siren when you install it. Install Siren only if you can pay to rez it. 1 bit: Runner must make a run on the fort Siren is installed in, if possible, instead of on the fort he or she was originally going to make a run on. Use this ability only at the start of a run.",
-            "flavor": "\"They'll come. Just leak one word: 'oops.'\" ---Magnificent Curtis",
+            "flavor": "\"They'll come. Just leak one word: 'oops.'\" —Magnificent Curtis",
             "illustrator": "David Logan"
         },
         {
@@ -9212,7 +9212,7 @@
             "strength": 1,
             "text": "0[bit]: Break code gate subroutine.\n3[bit]: +4 strength",
             "stripped_text": "0 bits: Break code gate subroutine. 3 bits: +4 strength",
-            "flavor": "\"Sometimes I'd rather have bare bones working for me than an army of muscle.\" ---Max Forward",
+            "flavor": "\"Sometimes I'd rather have bare bones working for me than an army of muscle.\" —Max Forward",
             "illustrator": "Michael Kellner"
         },
         {
@@ -9227,7 +9227,7 @@
             "cost": 0,
             "text": "[trash]: Prevent any amount of Net or brain damage.",
             "stripped_text": "trash: Prevent any amount of Net or brain damage.",
-            "flavor": "\"Just the superficial sort of icon that someone grounded too far in 'reality' would think up. TURN UP THE FEED, YOU WIGGLY MEAT THINGS! THIS IS THE NET! NOTHING'S REAL! YOU HAVE NO HEAD!\" ---Rache Bartmoss",
+            "flavor": "\"Just the superficial sort of icon that someone grounded too far in 'reality' would think up. TURN UP THE FEED, YOU WIGGLY MEAT THINGS! THIS IS THE NET! NOTHING'S REAL! YOU HAVE NO HEAD!\" —Rache Bartmoss",
             "illustrator": "Craig Hooper"
         },
         {
@@ -9427,7 +9427,7 @@
             "cost": 3,
             "text": "After each successful run on HQ, give the Corp a Tax counter. Every two Tax counters cause the Corp to lose 1[bit] at the start of each of its turns.\nThe Corp may remove all Virus counters at any time, but must then forgo its next three actions.",
             "stripped_text": "After each successful run on HQ, give the Corp a Tax counter. Every two Tax counters cause the Corp to lose 1 bit at the start of each of its turns. The Corp may remove all Virus counters at any time, but must then forgo its next three actions.",
-            "flavor": "\"The virus just alters their data. The actual damage is done by government auditors,\" ---Spider Murphy",
+            "flavor": "\"The virus just alters their data. The actual damage is done by government auditors,\" —Spider Murphy",
             "illustrator": "James Allen Higgins"
         },
         {
