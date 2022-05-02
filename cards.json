@@ -186,8 +186,8 @@
             "rarity": "Vital",
             "difficulty": 5,
             "agenda_points": 2,
-            "text": "A: Shuffle cards stored in HQ and the Archives into R&D; then draw five cards.",
-            "stripped_text": "A: Shuffle cards stored in HQ and the Archives into R&D; then draw five cards.",
+            "text": "[action]: Shuffle cards stored in HQ and the Archives into R&D; then draw five cards.",
+            "stripped_text": "[action]: Shuffle cards stored in HQ and the Archives into R&D; then draw five cards.",
             "illustrator": "Pete Venters"
         },
         {
@@ -363,8 +363,8 @@
             "set": "Base",
             "rarity": "Rare",
             "cost": 0,
-            "text": "A: Look at the top five cards of your stack. You may bring any program cards among them into your hand. Pay 1[bit] for each card taken in this way, and show those cards to the Corp. Shuffle your stack.",
-            "stripped_text": "A: Look at the top five cards of your stack. You may bring any program cards among them into your hand. Pay 1 bit for each card taken in this way, and show those cards to the Corp. Shuffle your stack.",
+            "text": "[action]: Look at the top five cards of your stack. You may bring any program cards among them into your hand. Pay 1[bit] for each card taken in this way, and show those cards to the Corp. Shuffle your stack.",
+            "stripped_text": "[action]: Look at the top five cards of your stack. You may bring any program cards among them into your hand. Pay 1 bit for each card taken in this way, and show those cards to the Corp. Shuffle your stack.",
             "illustrator": "Margaret Organ-Kean"
         },
         {
@@ -496,8 +496,8 @@
             "set": "Base",
             "rarity": "Common",
             "cost": 0,
-            "text": "Put 16[bit] from the bank on BBS Whispering Campaign when you rez it.  When all the bits have been removed, trash BBS Whispering Campaign.\nA: Take 2[bit] from BBS Whispering Campaign.\n",
-            "stripped_text": "Put 16 bits from the bank on BBS Whispering Campaign when you rez it. When all the bits have been removed, trash BBS Whispering Campaign. A: Take 2 bits from BBS Whispering Campaign. ",
+            "text": "Put 16[bit] from the bank on BBS Whispering Campaign when you rez it.  When all the bits have been removed, trash BBS Whispering Campaign.\n[action]: Take 2[bit] from BBS Whispering Campaign.\n",
+            "stripped_text": "Put 16 bits from the bank on BBS Whispering Campaign when you rez it. When all the bits have been removed, trash BBS Whispering Campaign. [action]: Take 2 bits from BBS Whispering Campaign. ",
             "illustrator": "Kevin Taylor"
         },
         {
@@ -596,8 +596,8 @@
             "set": "Base",
             "rarity": "Rare",
             "cost": 6,
-            "text": "A:Trace 5 -If trace is successful, give Runner a tag.",
-            "stripped_text": "A:Trace 5 -If trace is successful, give Runner a tag.",
+            "text": "[action]:Trace 5 -If trace is successful, give Runner a tag.",
+            "stripped_text": "[action]:Trace 5 -If trace is successful, give Runner a tag.",
             "illustrator": "Larry Friedman"
         },
         {
@@ -693,8 +693,8 @@
             "set": "Base",
             "rarity": "Common",
             "cost": 3,
-            "text": "Each of your turns, you may take only one action to use Broker.\nA: Put 3[bit] from the bank on Broker.\nA: Take all the bits from Broker.",
-            "stripped_text": "Each of your turns, you may take only one action to use Broker. A: Put 3 bits from the bank on Broker. A: Take all the bits from Broker.",
+            "text": "Each of your turns, you may take only one action to use Broker.\n[action]: Put 3[bit] from the bank on Broker.\n[action]: Take all the bits from Broker.",
+            "stripped_text": "Each of your turns, you may take only one action to use Broker. [action]: Put 3 bits from the bank on Broker. [action]: Take all the bits from Broker.",
             "illustrator": "Armand Cabrera"
         },
         {
@@ -1090,8 +1090,8 @@
             "rarity": "Vital",
             "difficulty": 5,
             "agenda_points": 2,
-            "text": "Put 15[bit] from the bank on Corporate Coup when you score it.\nA: Take 3[bit] from Corporate Coup, if it has any bits.",
-            "stripped_text": "Put 15 bits from the bank on Corporate Coup when you score it. A: Take 3 bits from Corporate Coup, if it has any bits.",
+            "text": "Put 15[bit] from the bank on Corporate Coup when you score it.\n[action]: Take 3[bit] from Corporate Coup, if it has any bits.",
+            "stripped_text": "Put 15 bits from the bank on Corporate Coup when you score it. [action]: Take 3 bits from Corporate Coup, if it has any bits.",
             "illustrator": "Dave Pilurs"
         },
         {
@@ -1153,8 +1153,8 @@
             "rarity": "Vital",
             "difficulty": 4,
             "agenda_points": 3,
-            "text": "You lose the following ability as soon as you rez or install any card.\nA: Gain 2[bit].",
-            "stripped_text": "You lose the following ability as soon as you rez or install any card. A: Gain 2 bits.",
+            "text": "You lose the following ability as soon as you rez or install any card.\n[action]: Gain 2[bit].",
+            "stripped_text": "You lose the following ability as soon as you rez or install any card. [action]: Gain 2 bits.",
             "illustrator": "Doug Keith"
         },
         {
@@ -1236,8 +1236,8 @@
             "set": "Base",
             "rarity": "Uncommon",
             "cost": 0,
-            "text": "A: Choose one of your installed cards to be uninstalled. Store it in HQ.",
-            "stripped_text": "A: Choose one of your installed cards to be uninstalled. Store it in HQ.",
+            "text": "[action]: Choose one of your installed cards to be uninstalled. Store it in HQ.",
+            "stripped_text": "[action]: Choose one of your installed cards to be uninstalled. Store it in HQ.",
             "illustrator": "Mark Tedin"
         },
         {
@@ -1587,8 +1587,8 @@
             "set": "Base",
             "rarity": "Uncommon",
             "cost": 2,
-            "text": "A: Put 3[bit] from the bank on Department of Truth Enhancement.\nA: Take all the bits from Department of Truth Enhancement.\n",
-            "stripped_text": "A: Put 3 bits from the bank on Department of Truth Enhancement. A: Take all the bits from Department of Truth Enhancement. ",
+            "text": "[action]: Put 3[bit] from the bank on Department of Truth Enhancement.\n[action]: Take all the bits from Department of Truth Enhancement.\n",
+            "stripped_text": "[action]: Put 3 bits from the bank on Department of Truth Enhancement. [action]: Take all the bits from Department of Truth Enhancement. ",
             "illustrator": "Matt Wilson"
         },
         {
@@ -1839,8 +1839,8 @@
             "rarity": "Vital",
             "difficulty": 4,
             "agenda_points": 3,
-            "text": "You may choose to draw an additional card at the start of each of your turns.\nA: Draw two cards.",
-            "stripped_text": "You may choose to draw an additional card at the start of each of your turns. A: Draw two cards.",
+            "text": "You may choose to draw an additional card at the start of each of your turns.\n[action]: Draw two cards.",
+            "stripped_text": "You may choose to draw an additional card at the start of each of your turns. [action]: Draw two cards.",
             "illustrator": "Dan Frazier"
         },
         {
@@ -1899,8 +1899,8 @@
             "set": "Base",
             "rarity": "Uncommon",
             "cost": 0,
-            "text": "A: Draw two cards.",
-            "stripped_text": "A: Draw two cards.",
+            "text": "[action]: Draw two cards.",
+            "stripped_text": "[action]: Draw two cards.",
             "illustrator": "Ramon Mascarenas"
         },
         {
@@ -3007,8 +3007,8 @@
             "set": "Base",
             "rarity": "Rare",
             "cost": 1,
-            "text": "A: Draw two cards. Use this ability only if you were damaged during any of your last three actions.\n[trash]: Prevent 1 brain damage.",
-            "stripped_text": "A: Draw two cards. Use this ability only if you were damaged during any of your last three actions. trash: Prevent 1 brain damage.",
+            "text": "[action]: Draw two cards. Use this ability only if you were damaged during any of your last three actions.\n[trash]: Prevent 1 brain damage.",
+            "stripped_text": "[action]: Draw two cards. Use this ability only if you were damaged during any of your last three actions. trash: Prevent 1 brain damage.",
             "illustrator": "Doug Shuler"
         },
         {
@@ -3124,8 +3124,8 @@
             "rarity": "Vital",
             "difficulty": 3,
             "agenda_points": 2,
-            "text": "A, A: Gain 3[bit].",
-            "stripped_text": "A, A: Gain 3 bits.",
+            "text": "A, [action]: Gain 3[bit].",
+            "stripped_text": "A, [action]: Gain 3 bits.",
             "illustrator": "Ernie Chan"
         },
         {
@@ -3201,8 +3201,8 @@
             "set": "Base",
             "rarity": "Common",
             "cost": 0,
-            "text": "Whenever one or more installed programs are being sent to the trash at the same time, you may instead choose to put any or all of the programs on top of \tMicrotech Backup Drive in any order you choose. If Backup Drive is removed from play, trash any cards on it.\tA: Bring the top card on Backup Drive into your hand.",
-            "stripped_text": "Whenever one or more installed programs are being sent to the trash at the same time, you may instead choose to put any or all of the programs on top of \tMicrotech Backup Drive in any order you choose. If Backup Drive is removed from play, trash any cards on it.\tA: Bring the top card on Backup Drive into your hand.",
+            "text": "Whenever one or more installed programs are being sent to the trash at the same time, you may instead choose to put any or all of the programs on top of \tMicrotech Backup Drive in any order you choose. If Backup Drive is removed from play, trash any cards on it.\t[action]: Bring the top card on Backup Drive into your hand.",
+            "stripped_text": "Whenever one or more installed programs are being sent to the trash at the same time, you may instead choose to put any or all of the programs on top of \tMicrotech Backup Drive in any order you choose. If Backup Drive is removed from play, trash any cards on it.\t[action]: Bring the top card on Backup Drive into your hand.",
             "illustrator": "James Allen Higgins"
         },
         {
@@ -3263,8 +3263,8 @@
             "set": "Base",
             "rarity": "Uncommon",
             "cost": 2,
-            "text": "A: Expose a card installed inside a data fort.",
-            "stripped_text": "A: Expose a card installed inside a data fort.",
+            "text": "[action]: Expose a card installed inside a data fort.",
+            "stripped_text": "[action]: Expose a card installed inside a data fort.",
             "illustrator": "Mark Collen"
         },
         {
@@ -3309,8 +3309,8 @@
             "set": "Base",
             "rarity": "Rare",
             "cost": 0,
-            "text": "A: Look at the top four cards of your stack. You may bring any prep or resource cards among them into your hand. Pay 1[bit] for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack.\n",
-            "stripped_text": "A: Look at the top four cards of your stack. You may bring any prep or resource cards among them into your hand. Pay 1 bit for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack. ",
+            "text": "[action]: Look at the top four cards of your stack. You may bring any prep or resource cards among them into your hand. Pay 1[bit] for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack.\n",
+            "stripped_text": "[action]: Look at the top four cards of your stack. You may bring any prep or resource cards among them into your hand. Pay 1 bit for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack. ",
             "illustrator": "Robert McLees"
         },
         {
@@ -3401,8 +3401,8 @@
             "rarity": "Vital",
             "difficulty": 5,
             "agenda_points": 2,
-            "text": "A:Trace 2 -If trace is successful, give Runner a tag.",
-            "stripped_text": "A:Trace 2 -If trace is successful, give Runner a tag.",
+            "text": "[action]:Trace 2 -If trace is successful, give Runner a tag.",
+            "stripped_text": "[action]:Trace 2 -If trace is successful, give Runner a tag.",
             "illustrator": "Christina Wald"
         },
         {
@@ -3479,8 +3479,8 @@
             "set": "Base",
             "rarity": "Uncommon",
             "cost": 5,
-            "text": "A: Gain 2[bit].",
-            "stripped_text": "A: Gain 2 bits.",
+            "text": "[action]: Gain 2[bit].",
+            "stripped_text": "[action]: Gain 2 bits.",
             "illustrator": "Sue Ann Harkey"
         },
         {
@@ -3599,8 +3599,8 @@
             "rarity": "Vital",
             "difficulty": 4,
             "agenda_points": 3,
-            "text": "A: Do 1 meat damage. Use this ability only if Runner is tagged.",
-            "stripped_text": "A: Do 1 meat damage. Use this ability only if Runner is tagged.",
+            "text": "[action]: Do 1 meat damage. Use this ability only if Runner is tagged.",
+            "stripped_text": "[action]: Do 1 meat damage. Use this ability only if Runner is tagged.",
             "illustrator": "Matt Wilson"
         },
         {
@@ -3819,8 +3819,8 @@
             "rarity": "Vital",
             "difficulty": 4,
             "agenda_points": 2,
-            "text": "Put 12[bit] from the bank on Political Coup when you score it.\nA: Take 3[bit] from Political Coup, if it has any bits.\n",
-            "stripped_text": "Put 12 bits from the bank on Political Coup when you score it. A: Take 3 bits from Political Coup, if it has any bits. ",
+            "text": "Put 12[bit] from the bank on Political Coup when you score it.\n[action]: Take 3[bit] from Political Coup, if it has any bits.\n",
+            "stripped_text": "Put 12 bits from the bank on Political Coup when you score it. [action]: Take 3 bits from Political Coup, if it has any bits. ",
             "illustrator": "Ernie Chan"
         },
         {
@@ -3836,8 +3836,8 @@
             "rarity": "Rare",
             "difficulty": 9,
             "agenda_points": 6,
-            "text": "A: Gain 3[bit].",
-            "stripped_text": "A: Gain 3 bits.",
+            "text": "[action]: Gain 3[bit].",
+            "stripped_text": "[action]: Gain 3 bits.",
             "illustrator": "Doug Chaffee"
         },
         {
@@ -3964,8 +3964,8 @@
             "rarity": "Vital",
             "difficulty": 7,
             "agenda_points": 2,
-            "text": "A:Trace 5 -If trace is successful, give Runner a tag.",
-            "stripped_text": "A:Trace 5 -If trace is successful, give Runner a tag.",
+            "text": "[action]:Trace 5 -If trace is successful, give Runner a tag.",
+            "stripped_text": "[action]:Trace 5 -If trace is successful, give Runner a tag.",
             "illustrator": "Brian Booker"
         },
         {
@@ -4082,8 +4082,8 @@
             "set": "Base",
             "rarity": "Uncommon",
             "cost": 0,
-            "text": "A: Make a run on R&D, but instead of accessing cards, look at the top five cards of R&D.",
-            "stripped_text": "A: Make a run on R&D, but instead of accessing cards, look at the top five cards of R&D.",
+            "text": "[action]: Make a run on R&D, but instead of accessing cards, look at the top five cards of R&D.",
+            "stripped_text": "[action]: Make a run on R&D, but instead of accessing cards, look at the top five cards of R&D.",
             "illustrator": "Doug Shuler"
         },
         {
@@ -4211,8 +4211,8 @@
             "set": "Base",
             "rarity": "Rare",
             "cost": 0,
-            "text": "A: Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, shuffle the face-up pile of the Archives and then put the top two cards from that pile on R&D.",
-            "stripped_text": "A: Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, shuffle the face-up pile of the Archives and then put the top two cards from that pile on R&D.",
+            "text": "[action]: Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, shuffle the face-up pile of the Archives and then put the top two cards from that pile on R&D.",
+            "stripped_text": "[action]: Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, shuffle the face-up pile of the Archives and then put the top two cards from that pile on R&D.",
             "illustrator": "James Allen Higgins"
         },
         {
@@ -4307,8 +4307,8 @@
             "set": "Base",
             "rarity": "Uncommon",
             "cost": 0,
-            "text": "A: Note the number of cards stored in HQ. Shuffle those cards into R&D, and then draw that many cards.",
-            "stripped_text": "A: Note the number of cards stored in HQ. Shuffle those cards into R&D, and then draw that many cards.",
+            "text": "[action]: Note the number of cards stored in HQ. Shuffle those cards into R&D, and then draw that many cards.",
+            "stripped_text": "[action]: Note the number of cards stored in HQ. Shuffle those cards into R&D, and then draw that many cards.",
             "illustrator": "Mike Kimble"
         },
         {
@@ -4401,8 +4401,8 @@
             "set": "Base",
             "rarity": "Common",
             "cost": 4,
-            "text": "Put 15[bit] from the bank on Rockerboy Promotion when you rez it. When all the bits have been removed, trash Rockerboy Promotion.\nA: Take 3[bit] from Rockerboy Promotion. ",
-            "stripped_text": "Put 15 bits from the bank on Rockerboy Promotion when you rez it. When all the bits have been removed, trash Rockerboy Promotion. A: Take 3 bits from Rockerboy Promotion. ",
+            "text": "Put 15[bit] from the bank on Rockerboy Promotion when you rez it. When all the bits have been removed, trash Rockerboy Promotion.\n[action]: Take 3[bit] from Rockerboy Promotion. ",
+            "stripped_text": "Put 15 bits from the bank on Rockerboy Promotion when you rez it. When all the bits have been removed, trash Rockerboy Promotion. [action]: Take 3 bits from Rockerboy Promotion. ",
             "illustrator": "John Ramirez"
         },
         {
@@ -4433,8 +4433,8 @@
             "set": "Base",
             "rarity": "Rare",
             "cost": 3,
-            "text": "A: Look at the top five cards of your stack. You may bring any hardware cards among them into your hand. Pay 1[bit] for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack.\t\nA, 2[bit]: Expose any card.",
-            "stripped_text": "A: Look at the top five cards of your stack. You may bring any hardware cards among them into your hand. Pay 1 bit for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack.\t A, 2 bits: Expose any card.",
+            "text": "[action]: Look at the top five cards of your stack. You may bring any hardware cards among them into your hand. Pay 1[bit] for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack.\t\nA, 2[bit]: Expose any card.",
+            "stripped_text": "[action]: Look at the top five cards of your stack. You may bring any hardware cards among them into your hand. Pay 1 bit for each card taken in this way, and show those cards to the Corp. Shuffle the rest back into your stack.\t A, 2 bits: Expose any card.",
             "illustrator": "Sue Ann Harkey"
         },
         {
@@ -4495,8 +4495,8 @@
             "set": "Base",
             "rarity": "Rare",
             "cost": 2,
-            "text": "A: Roll a die. If you roll less than or equal to the number of tags Runner has, Schlaghund does 10 meat damage and you trash Schlaghund.",
-            "stripped_text": "A: Roll a die. If you roll less than or equal to the number of tags Runner has, Schlaghund does 10 meat damage and you trash Schlaghund.",
+            "text": "[action]: Roll a die. If you roll less than or equal to the number of tags Runner has, Schlaghund does 10 meat damage and you trash Schlaghund.",
+            "stripped_text": "[action]: Roll a die. If you roll less than or equal to the number of tags Runner has, Schlaghund does 10 meat damage and you trash Schlaghund.",
             "illustrator": "L.A. Williams"
         },
         {
@@ -4720,8 +4720,8 @@
             "set": "Base",
             "rarity": "Common",
             "cost": 1,
-            "text": "Put 12[bit] from the bank on Short-Term Contract when it is installed. When all the bits have been removed, trash Short-Term Contract.\nA: Take 2[bit] from Short-Term Contract.\n",
-            "stripped_text": "Put 12 bits from the bank on Short-Term Contract when it is installed. When all the bits have been removed, trash Short-Term Contract. A: Take 2 bits from Short-Term Contract. ",
+            "text": "Put 12[bit] from the bank on Short-Term Contract when it is installed. When all the bits have been removed, trash Short-Term Contract.\n[action]: Take 2[bit] from Short-Term Contract.\n",
+            "stripped_text": "Put 12 bits from the bank on Short-Term Contract when it is installed. When all the bits have been removed, trash Short-Term Contract. [action]: Take 2 bits from Short-Term Contract. ",
             "illustrator": "James Allen Higgins"
         },
         {
@@ -4750,8 +4750,8 @@
             "set": "Base",
             "rarity": "Uncommon",
             "cost": 4,
-            "text": "A: Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, treat run as a successful run on HQ.",
-            "stripped_text": "A: Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, treat run as a successful run on HQ.",
+            "text": "[action]: Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, treat run as a successful run on HQ.",
+            "stripped_text": "[action]: Make a run on the Archives. If run is successful, do not access cards from the Archives; instead, treat run as a successful run on HQ.",
             "illustrator": "Doug Shuler"
         },
         {
@@ -4779,8 +4779,8 @@
             "set": "Base",
             "rarity": "Rare",
             "cost": 8,
-            "text": "A: Gain 1[bit] and draw one card.",
-            "stripped_text": "A: Gain 1 bit and draw one card.",
+            "text": "[action]: Gain 1[bit] and draw one card.",
+            "stripped_text": "[action]: Gain 1 bit and draw one card.",
             "illustrator": "James Allen Higgins"
         },
         {
@@ -4944,8 +4944,8 @@
             "set": "Base",
             "rarity": "Uncommon",
             "cost": 0,
-            "text": "A: Do 1 meat damage. Use this ability only if Runner is tagged.",
-            "stripped_text": "A: Do 1 meat damage. Use this ability only if Runner is tagged.",
+            "text": "[action]: Do 1 meat damage. Use this ability only if Runner is tagged.",
+            "stripped_text": "[action]: Do 1 meat damage. Use this ability only if Runner is tagged.",
             "illustrator": "Ernie Chan"
         },
         {
@@ -4960,8 +4960,8 @@
             "set": "Base",
             "rarity": "Uncommon",
             "cost": 0,
-            "text": "A, A, A: Gain 6[bit].",
-            "stripped_text": "A, A, A: Gain 6 bits.",
+            "text": "A, A, [action]: Gain 6[bit].",
+            "stripped_text": "A, A, [action]: Gain 6 bits.",
             "illustrator": "Todd Wade"
         },
         {
@@ -4992,8 +4992,8 @@
             "set": "Base",
             "rarity": "Common",
             "cost": 1,
-            "text": "Take 1[bit] from Spinn(R) Public Relations, if it has any bits, at the start of each of your turns.\nA: Put 3[bit] from the bank on Spinn(R) Public Relations.\n",
-            "stripped_text": "Take 1 bit from Spinn(R) Public Relations, if it has any bits, at the start of each of your turns. A: Put 3 bits from the bank on Spinn(R) Public Relations. ",
+            "text": "Take 1[bit] from Spinn(R) Public Relations, if it has any bits, at the start of each of your turns.\n[action]: Put 3[bit] from the bank on Spinn(R) Public Relations.\n",
+            "stripped_text": "Take 1 bit from Spinn(R) Public Relations, if it has any bits, at the start of each of your turns. [action]: Put 3 bits from the bank on Spinn(R) Public Relations. ",
             "illustrator": "Todd Wade"
         },
         {
@@ -5022,8 +5022,8 @@
             "rarity": "Rare",
             "difficulty": 6,
             "agenda_points": 3,
-            "text": "A: Do 2 meat damage. Use this ability only if Runner is tagged.",
-            "stripped_text": "A: Do 2 meat damage. Use this ability only if Runner is tagged.",
+            "text": "[action]: Do 2 meat damage. Use this ability only if Runner is tagged.",
+            "stripped_text": "[action]: Do 2 meat damage. Use this ability only if Runner is tagged.",
             "illustrator": "Richard Thomas"
         },
         {
@@ -5153,8 +5153,8 @@
             "set": "Base",
             "rarity": "Uncommon",
             "cost": 2,
-            "text": "A: Look at the top card of R&D.",
-            "stripped_text": "A: Look at the top card of R&D.",
+            "text": "[action]: Look at the top card of R&D.",
+            "stripped_text": "[action]: Look at the top card of R&D.",
             "illustrator": "Randy Gallegos"
         },
         {
@@ -5224,8 +5224,8 @@
             "set": "Base",
             "rarity": "Rare",
             "cost": 0,
-            "text": "A: Choose a program or hardware card from your hand. Set that card aside, and put a number of Shell counters on it equal to its installation cost. When the last Shell counter on that card has been removed, install that card, at no cost. Remove one Shell counter from one card at the start of each of your turns.\n1[bit]: Remove one Shell counter from a card.",
-            "stripped_text": "A: Choose a program or hardware card from your hand. Set that card aside, and put a number of Shell counters on it equal to its installation cost. When the last Shell counter on that card has been removed, install that card, at no cost. Remove one Shell counter from one card at the start of each of your turns. 1 bit: Remove one Shell counter from a card.",
+            "text": "[action]: Choose a program or hardware card from your hand. Set that card aside, and put a number of Shell counters on it equal to its installation cost. When the last Shell counter on that card has been removed, install that card, at no cost. Remove one Shell counter from one card at the start of each of your turns.\n1[bit]: Remove one Shell counter from a card.",
+            "stripped_text": "[action]: Choose a program or hardware card from your hand. Set that card aside, and put a number of Shell counters on it equal to its installation cost. When the last Shell counter on that card has been removed, install that card, at no cost. Remove one Shell counter from one card at the start of each of your turns. 1 bit: Remove one Shell counter from a card.",
             "illustrator": "Mike Kimble"
         },
         {
@@ -5380,8 +5380,8 @@
             "set": "Base",
             "rarity": "Uncommon",
             "cost": 0,
-            "text": "Put two Trauma counters on Trauma Team[TM] when it is installed. \t\nTrauma Counter: Prevent 1 meat damage.\nA: Put one Trauma counter on Trauma Team[TM].",
-            "stripped_text": "Put two Trauma counters on Trauma TeamTM when it is installed. \t Trauma Counter: Prevent 1 meat damage. A: Put one Trauma counter on Trauma TeamTM.",
+            "text": "Put two Trauma counters on Trauma Team[TM] when it is installed. \t\nTrauma Counter: Prevent 1 meat damage.\n[action]: Put one Trauma counter on Trauma Team[TM].",
+            "stripped_text": "Put two Trauma counters on Trauma TeamTM when it is installed. \t Trauma Counter: Prevent 1 meat damage. [action]: Put one Trauma counter on Trauma TeamTM.",
             "illustrator": "Mike Kimble"
         },
         {
@@ -5580,8 +5580,8 @@
             "set": "Base",
             "rarity": "Uncommon",
             "cost": 0,
-            "text": "You may advance Vapor Ops before and after you rez it.\nVapor Ops advancement Counter: Gain 1[bit].\nA: Move any number of advancement counters from Vapor Ops to another installed card that can be advanced.\n",
-            "stripped_text": "You may advance Vapor Ops before and after you rez it. Vapor Ops advancement Counter: Gain 1 bit. A: Move any number of advancement counters from Vapor Ops to another installed card that can be advanced. ",
+            "text": "You may advance Vapor Ops before and after you rez it.\nVapor Ops advancement Counter: Gain 1[bit].\n[action]: Move any number of advancement counters from Vapor Ops to another installed card that can be advanced.\n",
+            "stripped_text": "You may advance Vapor Ops before and after you rez it. Vapor Ops advancement Counter: Gain 1 bit. [action]: Move any number of advancement counters from Vapor Ops to another installed card that can be advanced. ",
             "illustrator": "Craig Hooper"
         },
         {
@@ -6018,8 +6018,8 @@
             "set_code": "classic",
             "rarity": "Rare",
             "cost": 2,
-            "text": "Gain 1[bit] at the start of each of your turns. All trace attempts are automatically successful, and give you a tag in addition to their other effects. If Crash Space leaves play, lose 2[bit].\nA: Trash Crash Space.\nOnly one unique card of a particular name can be in play at a time.\nIf for some reason more than one is in play, trash all but one. ",
-            "stripped_text": "Gain 1 bit at the start of each of your turns. All trace attempts are automatically successful, and give you a tag in addition to their other effects. If Crash Space leaves play, lose 2 bits. A: Trash Crash Space. Only one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one. ",
+            "text": "Gain 1[bit] at the start of each of your turns. All trace attempts are automatically successful, and give you a tag in addition to their other effects. If Crash Space leaves play, lose 2[bit].\n[action]: Trash Crash Space.\nOnly one unique card of a particular name can be in play at a time.\nIf for some reason more than one is in play, trash all but one. ",
+            "stripped_text": "Gain 1 bit at the start of each of your turns. All trace attempts are automatically successful, and give you a tag in addition to their other effects. If Crash Space leaves play, lose 2 bits. [action]: Trash Crash Space. Only one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one. ",
             "illustrator": "John Bolton"
         },
         {
@@ -6686,8 +6686,8 @@
             "rarity": "Rare",
             "difficulty": 5,
             "agenda_points": 3,
-            "text": "If Runner accesses Theorem Proof, he or she does not score it, but instead may install it as a 2 MU program that has the ability \"A: Score Theorem Proof\" but is removed from the game if it leaves play in any other way.",
-            "stripped_text": "If Runner accesses Theorem Proof, he or she does not score it, but instead may install it as a 2 MU program that has the ability A: Score Theorem Proof but is removed from the game if it leaves play in any other way.",
+            "text": "If Runner accesses Theorem Proof, he or she does not score it, but instead may install it as a 2 MU program that has the ability \"[action]: Score Theorem Proof\" but is removed from the game if it leaves play in any other way.",
+            "stripped_text": "If Runner accesses Theorem Proof, he or she does not score it, but instead may install it as a 2 MU program that has the ability [action]: Score Theorem Proof but is removed from the game if it leaves play in any other way.",
             "illustrator": "Doug Chaffee"
         },
         {
@@ -7186,8 +7186,8 @@
             "rarity": "Common",
             "difficulty": 5,
             "agenda_points": 3,
-            "text": "Whenever Corporate Headhunters successfully does damage, Runner 's hand size is reduced by 1.\nA: Do 1 meat damage. Use this ability only if Runner is tagged.\n",
-            "stripped_text": "Whenever Corporate Headhunters successfully does damage, Runner 's hand size is reduced by 1. A: Do 1 meat damage. Use this ability only if Runner is tagged. ",
+            "text": "Whenever Corporate Headhunters successfully does damage, Runner 's hand size is reduced by 1.\n[action]: Do 1 meat damage. Use this ability only if Runner is tagged.\n",
+            "stripped_text": "Whenever Corporate Headhunters successfully does damage, Runner 's hand size is reduced by 1. [action]: Do 1 meat damage. Use this ability only if Runner is tagged. ",
             "illustrator": "Rick Berry"
         },
         {
@@ -8326,8 +8326,8 @@
             "rarity": "Uncommon",
             "cost": 10,
             "strength": 4,
-            "text": "2[bit]: Break a subroutine of the type last chosen for Morphing Tool.\n1[bit]: +1 strength.\n1[bit], A: Choose whether Morphing Tool breaks code gates, sentries, or walls. When you install Morphing Tool, choose whether it breaks code gates, sentries, or walls.",
-            "stripped_text": "2 bits: Break a subroutine of the type last chosen for Morphing Tool. 1 bit: +1 strength. 1 bit, A: Choose whether Morphing Tool breaks code gates, sentries, or walls. When you install Morphing Tool, choose whether it breaks code gates, sentries, or walls.",
+            "text": "2[bit]: Break a subroutine of the type last chosen for Morphing Tool.\n1[bit]: +1 strength.\n1[bit], [action]: Choose whether Morphing Tool breaks code gates, sentries, or walls. When you install Morphing Tool, choose whether it breaks code gates, sentries, or walls.",
+            "stripped_text": "2 bits: Break a subroutine of the type last chosen for Morphing Tool. 1 bit: +1 strength. 1 bit, [action]: Choose whether Morphing Tool breaks code gates, sentries, or walls. When you install Morphing Tool, choose whether it breaks code gates, sentries, or walls.",
             "illustrator": "Rick Berry"
         },
         {
@@ -9009,8 +9009,8 @@
             "set_code": "proteus",
             "rarity": "Common",
             "cost": 1,
-            "text": "Take 1[bit] from Streetware Distributor, if it has any bits, at the start of each of your turns.\nA: Put 3[bit] from the bank on Streetware Distributor.\n",
-            "stripped_text": "Take 1 bit from Streetware Distributor, if it has any bits, at the start of each of your turns. A: Put 3 bits from the bank on Streetware Distributor. ",
+            "text": "Take 1[bit] from Streetware Distributor, if it has any bits, at the start of each of your turns.\n[action]: Put 3[bit] from the bank on Streetware Distributor.\n",
+            "stripped_text": "Take 1 bit from Streetware Distributor, if it has any bits, at the start of each of your turns. [action]: Put 3 bits from the bank on Streetware Distributor. ",
             "illustrator": "Matt Wilson"
         },
         {
@@ -9097,8 +9097,8 @@
             "set_code": "proteus",
             "rarity": "Common",
             "cost": 0,
-            "text": "A: Trash a rezzed piece of ice. Gain 4[bit].",
-            "stripped_text": "A: Trash a rezzed piece of ice. Gain 4 bits.",
+            "text": "[action]: Trash a rezzed piece of ice. Gain 4[bit].",
+            "stripped_text": "[action]: Trash a rezzed piece of ice. Gain 4 bits.",
             "illustrator": "Mike Kimble"
         },
         {
