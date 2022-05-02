@@ -87,8 +87,8 @@
             "set": "Base",
             "rarity": "Vital",
             "cost": 2,
-            "text": "2[bit]: Base link 4.\n2[bit]: +1 link.\nUse only one base link card for each trace attempt made against ",
-            "stripped_text": "2 bits: Base link 4. 2 bits: +1 link. Use only one base link card for each trace attempt made against ",
+            "text": "2[bit]: Base link 4.\n2[bit]: +1 link.\nUse only one base link card for each trace attempt made against you.",
+            "stripped_text": "2 bits: Base link 4. 2 bits: +1 link. Use only one base link card for each trace attempt made against you.",
             "illustrator": "Robert McLees"
         },
         {
