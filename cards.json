@@ -7708,7 +7708,7 @@
             "cost": 4,
             "text": "Make a run. If run is successful, do not access cards; instead, trash all rezzed ice on the fort on which you just made a run, and the Corp gives you three tags.",
             "stripped_text": "Make a run. If run is successful, do not access cards; instead, trash all rezzed ice on the fort on which you just made a run, and the Corp gives you three tags.",
-            "flavor", "\"Sure it was worth it. Now hurry up and get packed; they'll be here any minute.\"",
+            "flavor": "\"Sure it was worth it. Now hurry up and get packed; they'll be here any minute.\"",
             "illustrator": "John Sledd"
         },
         {
