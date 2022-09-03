@@ -2670,8 +2670,8 @@
             "set": "Base",
             "rarity": "Rare",
             "cost": 3,
-            "text": "[action], 3 agenda points, Do 15 meat damage to Runner. Use this ability only if Runner has two or more tags.",
-            "stripped_text": "action, 3 agenda points, Do 15 meat damage to Runner. Use this ability only if Runner has two or more tags.",
+            "text": "[action], 3 agenda points: Do 15 meat damage to Runner. Use this ability only if Runner has two or more tags.",
+            "stripped_text": "action, 3 agenda points: Do 15 meat damage to Runner. Use this ability only if Runner has two or more tags.",
             "illustrator": "Richard Thomas"
         },
         {
