@@ -57,6 +57,7 @@
             "cost": 0,
             "text": "Runner cannot use worms during runs on this fort. If Runner uses a worm during a run on this fort before Aardvark is rezzed, you may rez Aardvark to trash that worm, and any bits spent using that worm on the current piece of ice are lost to no effect. Runner may then use further icebreakers to break the ice.",
             "stripped_text": "Runner cannot use worms during runs on this fort. If Runner uses a worm during a run on this fort before Aardvark is rezzed, you may rez Aardvark to trash that worm, and any bits spent using that worm on the current piece of ice are lost to no effect. Runner may then use further icebreakers to break the ice.",
+            "trash_cost": 4,
             "illustrator": "Fellwalker & Tolen"
         },
         {
@@ -140,6 +141,7 @@
             "cost": 0,
             "text": "Rezzing ACME S&L costs 1 agenda point, in addition to the normal cost. When you rez ACME S&L, gain 12[bit] and trash ACME S&L. For the remainder of the game, pay 1[bit] at the end of each of your turns, or lose the game. You can remove this effect, and score 1 agenda point, by taking an action to pay 12[bit].",
             "stripped_text": "Rezzing ACME S&L costs 1 agenda point, in addition to the normal cost. When you rez ACME S&L, gain 12 bits and trash ACME S&L. For the remainder of the game, pay 1 bit at the end of each of your turns, or lose the game. You can remove this effect, and score 1 agenda point, by taking an action to pay 12 bits.",
+            "trash_cost": 0,
             "illustrator": "Ramon Mascarenas"
         },
         {
@@ -253,6 +255,7 @@
             "cost": 2,
             "text": "All ice on this fort has +1 strength.",
             "stripped_text": "All ice on this fort has +1 strength.",
+            "trash_cost": 1,
             "illustrator": "Mark Collen"
         },
         {
@@ -518,6 +521,7 @@
             "cost": 0,
             "text": "Put 16[bit] from the bank on BBS Whispering Campaign when you rez it.  When all the bits have been removed, trash BBS Whispering Campaign.\n[action]: Take 2[bit] from BBS Whispering Campaign.",
             "stripped_text": "Put 16 bits from the bank on BBS Whispering Campaign when you rez it. When all the bits have been removed, trash BBS Whispering Campaign. action: Take 2 bits from BBS Whispering Campaign.",
+            "trash_cost": 4,
             "illustrator": "Kevin Taylor"
         },
         {
@@ -548,6 +552,7 @@
             "cost": 0,
             "text": "Runner does not score any agenda (or agendas) during a run in which Bizarre Encryption Scheme is accessed; return that agenda to the fort instead. Runner scores the agenda at the start of his or her next turn if neither you nor Runner has scored it by then. This does not affect any further runs.",
             "stripped_text": "Runner does not score any agenda (or agendas) during a run in which Bizarre Encryption Scheme is accessed; return that agenda to the fort instead. Runner scores the agenda at the start of his or her next turn if neither you nor Runner has scored it by then. This does not affect any further runs.",
+            "trash_cost": 1,
             "illustrator": "Mark Collen"
         },
         {
@@ -622,6 +627,7 @@
             "text": "[action]:Trace 5 -If trace is successful, give Runner a tag.",
             "stripped_text": "action:Trace 5 -If trace is successful, give Runner a tag.",
             "flavor": "\"These break-ins are unacceptable. Put the Cat on him. I want this character tagged so tight we know when he sheds a hair!\"",
+            "trash_cost": 0,
             "illustrator": "Larry Friedman"
         },
         {
@@ -706,6 +712,7 @@
             "text": "Put 12[bit] from the bank on Braindance Campaign when you rez it.\nTake 2[bit] from Braindance Campaign at the start of each of your turns. When all the bits have been removed, trash Braindance Campaign.",
             "stripped_text": "Put 12 bits from the bank on Braindance Campaign when you rez it. Take 2 bits from Braindance Campaign at the start of each of your turns. When all the bits have been removed, trash Braindance Campaign.",
             "flavor": "\"So it's a subliminal. What they don't know won't hurt them.\"",
+            "trash_cost": 7,
             "illustrator": "Heather Hudson"
         },
         {
@@ -842,6 +849,7 @@
             "text": "Cost to install ice on this fort is reduced by 2[bit].",
             "stripped_text": "Cost to install ice on this fort is reduced by 2 bits.",
             "flavor": "\"Of course, he subscribes to the Platonic-solids school of ice-rendering, but he is cheap.\"",
+            "trash_cost": 3,
             "illustrator": "Lawrence Snelly"
         },
         {
@@ -858,6 +866,7 @@
             "cost": 2,
             "text": "[action], 3[bit]: Add two advancement counters to an installed card that can be advanced.",
             "stripped_text": "action, 3 bits: Add two advancement counters to an installed card that can be advanced.",
+            "trash_cost": 1,
             "illustrator": "Anthony Petrarca"
         },
         {
@@ -875,6 +884,7 @@
             "text": "When Runner accesses Chimera, trash a daemon.",
             "stripped_text": "When Runner accesses Chimera, trash a daemon.",
             "flavor": "\"Watch this. She likes to play with it before she trashes it.\"",
+            "trash_cost": 3,
             "illustrator": "Larry Friedman"
         },
         {
@@ -911,6 +921,7 @@
             "cost": 1,
             "text": "For each card Runner draws, give Runner a tag unless Runner pays 1[bit], in addition to any other costs, to avoid receiving that tag.\nYou may rez City Surveillance just before the card is drawn.",
             "stripped_text": "For each card Runner draws, give Runner a tag unless Runner pays 1 bit, in addition to any other costs, to avoid receiving that tag. You may rez City Surveillance just before the card is drawn.",
+            "trash_cost": 2,
             "illustrator": "Sue Ann Harkey"
         },
         {
@@ -1182,6 +1193,7 @@
             "text": "At the start of each of your turns, gain 1[bit] for each agenda card stored in HQ that you show to Runner.",
             "stripped_text": "At the start of each of your turns, gain 1 bit for each agenda card stored in HQ that you show to Runner.",
             "flavor": "\"That which does not get me fired makes me more valuable to the corporation.\" —Dave Michaels, Microtech Special Ops",
+            "trash_cost": 3,
             "illustrator": "Roger Coad"
         },
         {
@@ -1235,6 +1247,7 @@
             "text": "You may advance Shattered Remains before and after you rez it.\nWhen Runner accesses Shattered Remains, it destroys one piece of hardware for each advancement counter on it.",
             "stripped_text": "You may advance Shattered Remains before and after you rez it. When Runner accesses Shattered Remains, it destroys one piece of hardware for each advancement counter on it.",
             "flavor": "\"It's not that I like screwing you up. It's just that they got me wireed so I feel the routines like bugs on my neck, so believe it, brother—I'm gonna swat!\"",
+            "trash_cost": 0,
             "illustrator": "Mark Collen"
         },
         {
@@ -1287,6 +1300,7 @@
             "cost": 0,
             "text": "[action]: Choose one of your installed cards to be uninstalled. Store it in HQ.",
             "stripped_text": "action: Choose one of your installed cards to be uninstalled. Store it in HQ.",
+            "trash_cost": 3,
             "illustrator": "Mark Tedin"
         },
         {
@@ -1320,6 +1334,7 @@
             "cost": 1,
             "text": "When Runner accesses Crybaby, give Runner a Crying counter.\nEach Crying counter reduces Runner's link by 2 during each trace attempt.\nRunner can remove a Crying counter by taking an action to pay 2[bit].",
             "stripped_text": "When Runner accesses Crybaby, give Runner a Crying counter. Each Crying counter reduces Runner's link by 2 during each trace attempt. Runner can remove a Crying counter by taking an action to pay 2 bits.",
+            "trash_cost": 2,
             "illustrator": "Kim Francisco"
         },
         {
@@ -1336,6 +1351,7 @@
             "cost": 5,
             "text": "Runner must pay 1[bit], in addition to the normal cost, to break each subroutine of each piece of ice encountered during runs on this fort. Rez a region when you install it.\nInstall a region only if you can pay to rez it.\nOnly one region may be installed in each fort. Trash older ones.",
             "stripped_text": "Runner must pay 1 bit, in addition to the normal cost, to break each subroutine of each piece of ice encountered during runs on this fort. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
+            "trash_cost": 5,
             "illustrator": "R. Talsorian Games Staff"
         },
         {
