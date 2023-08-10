@@ -57,6 +57,7 @@
             "cost": 0,
             "text": "Runner cannot use worms during runs on this fort. If Runner uses a worm during a run on this fort before Aardvark is rezzed, you may rez Aardvark to trash that worm, and any bits spent using that worm on the current piece of ice are lost to no effect. Runner may then use further icebreakers to break the ice.",
             "stripped_text": "Runner cannot use worms during runs on this fort. If Runner uses a worm during a run on this fort before Aardvark is rezzed, you may rez Aardvark to trash that worm, and any bits spent using that worm on the current piece of ice are lost to no effect. Runner may then use further icebreakers to break the ice.",
+            "trash_cost": 4,
             "illustrator": "Fellwalker & Tolen"
         },
         {
@@ -140,6 +141,7 @@
             "cost": 0,
             "text": "Rezzing ACME S&L costs 1 agenda point, in addition to the normal cost. When you rez ACME S&L, gain 12[bit] and trash ACME S&L. For the remainder of the game, pay 1[bit] at the end of each of your turns, or lose the game. You can remove this effect, and score 1 agenda point, by taking an action to pay 12[bit].",
             "stripped_text": "Rezzing ACME S&L costs 1 agenda point, in addition to the normal cost. When you rez ACME S&L, gain 12 bits and trash ACME S&L. For the remainder of the game, pay 1 bit at the end of each of your turns, or lose the game. You can remove this effect, and score 1 agenda point, by taking an action to pay 12 bits.",
+            "trash_cost": 0,
             "illustrator": "Ramon Mascarenas"
         },
         {
@@ -253,6 +255,7 @@
             "cost": 2,
             "text": "All ice on this fort has +1 strength.",
             "stripped_text": "All ice on this fort has +1 strength.",
+            "trash_cost": 1,
             "illustrator": "Mark Collen"
         },
         {
@@ -518,6 +521,7 @@
             "cost": 0,
             "text": "Put 16[bit] from the bank on BBS Whispering Campaign when you rez it.  When all the bits have been removed, trash BBS Whispering Campaign.\n[action]: Take 2[bit] from BBS Whispering Campaign.",
             "stripped_text": "Put 16 bits from the bank on BBS Whispering Campaign when you rez it. When all the bits have been removed, trash BBS Whispering Campaign. action: Take 2 bits from BBS Whispering Campaign.",
+            "trash_cost": 4,
             "illustrator": "Kevin Taylor"
         },
         {
@@ -548,6 +552,7 @@
             "cost": 0,
             "text": "Runner does not score any agenda (or agendas) during a run in which Bizarre Encryption Scheme is accessed; return that agenda to the fort instead. Runner scores the agenda at the start of his or her next turn if neither you nor Runner has scored it by then. This does not affect any further runs.",
             "stripped_text": "Runner does not score any agenda (or agendas) during a run in which Bizarre Encryption Scheme is accessed; return that agenda to the fort instead. Runner scores the agenda at the start of his or her next turn if neither you nor Runner has scored it by then. This does not affect any further runs.",
+            "trash_cost": 1,
             "illustrator": "Mark Collen"
         },
         {
@@ -622,6 +627,7 @@
             "text": "[action]:Trace 5 -If trace is successful, give Runner a tag.",
             "stripped_text": "action:Trace 5 -If trace is successful, give Runner a tag.",
             "flavor": "\"These break-ins are unacceptable. Put the Cat on him. I want this character tagged so tight we know when he sheds a hair!\"",
+            "trash_cost": 0,
             "illustrator": "Larry Friedman"
         },
         {
@@ -706,6 +712,7 @@
             "text": "Put 12[bit] from the bank on Braindance Campaign when you rez it.\nTake 2[bit] from Braindance Campaign at the start of each of your turns. When all the bits have been removed, trash Braindance Campaign.",
             "stripped_text": "Put 12 bits from the bank on Braindance Campaign when you rez it. Take 2 bits from Braindance Campaign at the start of each of your turns. When all the bits have been removed, trash Braindance Campaign.",
             "flavor": "\"So it's a subliminal. What they don't know won't hurt them.\"",
+            "trash_cost": 7,
             "illustrator": "Heather Hudson"
         },
         {
@@ -842,6 +849,7 @@
             "text": "Cost to install ice on this fort is reduced by 2[bit].",
             "stripped_text": "Cost to install ice on this fort is reduced by 2 bits.",
             "flavor": "\"Of course, he subscribes to the Platonic-solids school of ice-rendering, but he is cheap.\"",
+            "trash_cost": 3,
             "illustrator": "Lawrence Snelly"
         },
         {
@@ -858,6 +866,7 @@
             "cost": 2,
             "text": "[action], 3[bit]: Add two advancement counters to an installed card that can be advanced.",
             "stripped_text": "action, 3 bits: Add two advancement counters to an installed card that can be advanced.",
+            "trash_cost": 1,
             "illustrator": "Anthony Petrarca"
         },
         {
@@ -875,6 +884,7 @@
             "text": "When Runner accesses Chimera, trash a daemon.",
             "stripped_text": "When Runner accesses Chimera, trash a daemon.",
             "flavor": "\"Watch this. She likes to play with it before she trashes it.\"",
+            "trash_cost": 3,
             "illustrator": "Larry Friedman"
         },
         {
@@ -911,6 +921,7 @@
             "cost": 1,
             "text": "For each card Runner draws, give Runner a tag unless Runner pays 1[bit], in addition to any other costs, to avoid receiving that tag.\nYou may rez City Surveillance just before the card is drawn.",
             "stripped_text": "For each card Runner draws, give Runner a tag unless Runner pays 1 bit, in addition to any other costs, to avoid receiving that tag. You may rez City Surveillance just before the card is drawn.",
+            "trash_cost": 2,
             "illustrator": "Sue Ann Harkey"
         },
         {
@@ -1182,6 +1193,7 @@
             "text": "At the start of each of your turns, gain 1[bit] for each agenda card stored in HQ that you show to Runner.",
             "stripped_text": "At the start of each of your turns, gain 1 bit for each agenda card stored in HQ that you show to Runner.",
             "flavor": "\"That which does not get me fired makes me more valuable to the corporation.\" —Dave Michaels, Microtech Special Ops",
+            "trash_cost": 3,
             "illustrator": "Roger Coad"
         },
         {
@@ -1234,7 +1246,8 @@
             "cost": 2,
             "text": "You may advance Shattered Remains before and after you rez it.\nWhen Runner accesses Shattered Remains, it destroys one piece of hardware for each advancement counter on it.",
             "stripped_text": "You may advance Shattered Remains before and after you rez it. When Runner accesses Shattered Remains, it destroys one piece of hardware for each advancement counter on it.",
-            "flavor": "\"It's not that I like screwing you up. It's just that they got me wireed so I feel the routines like bugs on my neck, so believe it, brother—I'm gonna swat!\"",
+            "flavor": "\"It's not that I like screwing you up. It's just that they got me wired so I feel the routines like bugs on my neck, so believe it, brother—I'm gonna swat!\"",
+            "trash_cost": 0,
             "illustrator": "Mark Collen"
         },
         {
@@ -1287,6 +1300,7 @@
             "cost": 0,
             "text": "[action]: Choose one of your installed cards to be uninstalled. Store it in HQ.",
             "stripped_text": "action: Choose one of your installed cards to be uninstalled. Store it in HQ.",
+            "trash_cost": 3,
             "illustrator": "Mark Tedin"
         },
         {
@@ -1320,6 +1334,7 @@
             "cost": 1,
             "text": "When Runner accesses Crybaby, give Runner a Crying counter.\nEach Crying counter reduces Runner's link by 2 during each trace attempt.\nRunner can remove a Crying counter by taking an action to pay 2[bit].",
             "stripped_text": "When Runner accesses Crybaby, give Runner a Crying counter. Each Crying counter reduces Runner's link by 2 during each trace attempt. Runner can remove a Crying counter by taking an action to pay 2 bits.",
+            "trash_cost": 2,
             "illustrator": "Kim Francisco"
         },
         {
@@ -1336,6 +1351,7 @@
             "cost": 5,
             "text": "Runner must pay 1[bit], in addition to the normal cost, to break each subroutine of each piece of ice encountered during runs on this fort. Rez a region when you install it.\nInstall a region only if you can pay to rez it.\nOnly one region may be installed in each fort. Trash older ones.",
             "stripped_text": "Runner must pay 1 bit, in addition to the normal cost, to break each subroutine of each piece of ice encountered during runs on this fort. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
+            "trash_cost": 5,
             "illustrator": "R. Talsorian Games Staff"
         },
         {
@@ -1469,6 +1485,7 @@
             "text": "Cost to rez walls is reduced by 2[bit]. All walls have +1 strength.",
             "stripped_text": "Cost to rez walls is reduced by 2 bits. All walls have +1 strength.",
             "flavor": "\"'An eye on top of a pyramid'? No, that's not our Net logo; you must have us confused with another outfit.\"",
+            "trash_cost": 1,
             "illustrator": "Sue Ann Harkey"
         },
         {
@@ -1618,6 +1635,7 @@
             "text": "When Runner accesses Dedicated Response Team, it does 3 meat damage. Ignore this effect unless Runner is tagged.",
             "stripped_text": "When Runner accesses Dedicated Response Team, it does 3 meat damage. Ignore this effect unless Runner is tagged.",
             "flavor": "\"Excuse me—that's my beeper.\"",
+            "trash_cost": 2,
             "illustrator": "Pete Venters"
         },
         {
@@ -1652,6 +1670,7 @@
             "text": "[action]: Put 3[bit] from the bank on Department of Truth Enhancement.\n[action]: Take all the bits from Department of Truth Enhancement.",
             "stripped_text": "action: Put 3 bits from the bank on Department of Truth Enhancement. action: Take all the bits from Department of Truth Enhancement.",
             "flavor": "\"We don't lie. We use statistics.\" —Scott H. Warner, Department Coordinator",
+            "trash_cost": 1,
             "illustrator": "Matt Wilson"
         },
         {
@@ -1719,6 +1738,7 @@
             "text": "When Runner accesses Dieter Esslin, Dieter does 1 Net damage.",
             "stripped_text": "When Runner accesses Dieter Esslin, Dieter does 1 Net damage.",
             "flavor": "\"Y'know, sometimes it worries me how much he enjots his job.\"",
+            "trash_cost": 3,
             "illustrator": "Matt Wilson"
         },
         {
@@ -1748,6 +1768,7 @@
             "cost": 0,
             "text": "You may pay 1[bit] to avoid receiving a Virus counter. Use this ability only once each turn.",
             "stripped_text": "You may pay 1 bit to avoid receiving a Virus counter. Use this ability only once each turn.",
+            "trash_cost": 4,
             "illustrator": "Rob Dixon"
         },
         {
@@ -1782,6 +1803,7 @@
             "cost": 0,
             "text": "Whenever Runner makes a successful run on this fort, you may choose an ice card stored in HQ. Pay half of that card's rez cost, rounded down, to force Runner to encounter it; the run is not considered successful unless Runner passes that piece of ice. Trash that ice after the encounter ends.\nUse this ability only once during each run on this fort.",
             "stripped_text": "Whenever Runner makes a successful run on this fort, you may choose an ice card stored in HQ. Pay half of that card's rez cost, rounded down, to force Runner to encounter it; the run is not considered successful unless Runner passes that piece of ice. Trash that ice after the encounter ends. Use this ability only once during each run on this fort.",
+            "trash_cost": 3,
             "illustrator": "Doug Chaffee"
         },
         {
@@ -1930,6 +1952,7 @@
             "cost": 0,
             "text": "Cost to rez code gates is reduced by 1[bit]. All code gates have an additional subroutine, \"[subroutine] End the run,\" after all other subroutines.",
             "stripped_text": "Cost to rez code gates is reduced by 1 bit. All code gates have an additional subroutine, [subroutine] End the run, after all other subroutines.",
+            "trash_cost": 1,
             "illustrator": "Todd Wade"
         },
         {
@@ -1979,6 +2002,7 @@
             "text": "[action]: Draw two cards.",
             "stripped_text": "action: Draw two cards.",
             "flavor": "\"You know that orange toothpaste that suppresses your appetite? Yup, that came out of the space program too.\"",
+            "trash_cost": 3,
             "illustrator": "Ramon Mascarenas"
         },
         {
@@ -1992,6 +2016,7 @@
             "cost": 2,
             "text": "Hand size +2;\n[action], 1[bit]: Draw two cards.",
             "stripped_text": "Hand size +2; action, 1 bit: Draw two cards.",
+            "trash_cost": 4,
             "illustrator": "Doug Chaffee"
         },
         {
@@ -2060,6 +2085,7 @@
             "cost": 2,
             "text": "You may advance Experimental AI before and after you rez it.\nWhen Runner accesses Experimental AI, it destroys one program for each advancement counter on it.",
             "stripped_text": "You may advance Experimental AI before and after you rez it. When Runner accesses Experimental AI, it destroys one program for each advancement counter on it.",
+            "trash_cost": 0,
             "illustrator": "Mike Kimble"
         },
         {
@@ -2352,6 +2378,7 @@
             "text": "Cost to install ice is reduced by 1[bit].",
             "stripped_text": "Cost to install ice is reduced by 1 bit.",
             "flavor": "\"You're working for Saburo Arasaka, not God.\"",
+            "trash_cost": 3,
             "illustrator": "Fellwalker & Tolen"
         },
         {
@@ -2488,6 +2515,7 @@
             "cost": 0,
             "text": "After each trace attempt, whether successful or not, put 1[bit] from the bank on Hacker Tracker Central. During a trace attempt, each bit you spend from Hacker Tracker Central increases by 1 both your trace strength and your trace limit.",
             "stripped_text": "After each trace attempt, whether successful or not, put 1 bit from the bank on Hacker Tracker Central. During a trace attempt, each bit you spend from Hacker Tracker Central increases by 1 both your trace strength and your trace limit.",
+            "trash_cost": 2,
             "illustrator": "Robert McLees"
         },
         {
@@ -2554,6 +2582,7 @@
             "cost": 4,
             "text": "Put 12[bit] from the bank on Holovid Campaign when you rez it.\nTake 1[bit] from Holovid Campaign at the start of each of your turns.\nWhen all the bits have been removed, trash Holovid Campaign.",
             "stripped_text": "Put 12 bits from the bank on Holovid Campaign when you rez it. Take 1 bit from Holovid Campaign at the start of each of your turns. When all the bits have been removed, trash Holovid Campaign.",
+            "trash_cost": 7,
             "illustrator": "Zak Plucinski"
         },
         {
@@ -2672,6 +2701,7 @@
             "cost": 3,
             "text": "[action], 3 agenda points: Do 15 meat damage to Runner. Use this ability only if Runner has two or more tags.",
             "stripped_text": "action, 3 agenda points: Do 15 meat damage to Runner. Use this ability only if Runner has two or more tags.",
+            "trash_cost": 2,
             "illustrator": "Richard Thomas"
         },
         {
@@ -2802,6 +2832,7 @@
             "text": "You may advance Information Laundering before and after you rez it.\n[action], [trash]: Gain 4[bit] for each advancement counter on Information Laundering.",
             "stripped_text": "You may advance Information Laundering before and after you rez it. action, trash: Gain 4 bits for each advancement counter on Information Laundering.",
             "flavor": "\"Information wants to be clean.\"",
+            "trash_cost": 1,
             "illustrator": "Mike Kimble"
         },
         {
@@ -2832,6 +2863,7 @@
             "cost": 1,
             "text": "Take 1[bit] from Investment Firm, if it has any bits, at the start of each of your turns. Whenever 1[bit] or more bits are added to your pool, you may put 2[bit] from the bank on Investment Firm for each 1[bit] you choose not to add to your pool. Effects that give you bits at the start of your turn cannot be used this way.",
             "stripped_text": "Take 1 bit from Investment Firm, if it has any bits, at the start of each of your turns. Whenever 1 bit or more bits are added to your pool, you may put 2 bits from the bank on Investment Firm for each 1 bit you choose not to add to your pool. Effects that give you bits at the start of your turn cannot be used this way.",
+            "trash_cost": 2,
             "illustrator": "Anthony Petrarca"
         },
         {
@@ -2934,6 +2966,7 @@
             "cost": 1,
             "text": "Whenever Runner makes a successful run on this fort, you may choose an ice card stored in HQ. Install that piece of ice on this fort in the innermost position, paying an installation cost of 1[bit] for each piece of ice already on the fort. Runner is now considered to be approaching that piece of ice. Use this ability only once during each run on this fort.",
             "stripped_text": "Whenever Runner makes a successful run on this fort, you may choose an ice card stored in HQ. Install that piece of ice on this fort in the innermost position, paying an installation cost of 1 bit for each piece of ice already on the fort. Runner is now considered to be approaching that piece of ice. Use this ability only once during each run on this fort.",
+            "trash_cost": 1,
             "illustrator": "Lawrence Snelly"
         },
         {
@@ -2950,6 +2983,7 @@
             "cost": 2,
             "text": "Cost to rez walls on this fort is reduced by 2[bit]. All walls on this fort have +1 strength.\nRez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
             "stripped_text": "Cost to rez walls on this fort is reduced by 2 bits. All walls on this fort have +1 strength. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
+            "trash_cost": 5,
             "illustrator": "Chris Vande Voort"
         },
         {
@@ -3067,6 +3101,7 @@
             "cost": 0,
             "text": "Put 1[bit] from the bank on Krumz when you rez it. Use this bit only to pay for traces. If you use this bit, replace it at the start of your next turn.",
             "stripped_text": "Put 1 bit from the bank on Krumz when you rez it. Use this bit only to pay for traces. If you use this bit, replace it at the start of your next turn.",
+            "trash_cost": 2,
             "illustrator": "Mark Collen"
         },
         {
@@ -3464,6 +3499,7 @@
             "cost": 3,
             "text": "Rez Namatoki Plaza when you install it. Install Namatoki Plaza only if you can pay to rez it. Install only inside a subsidiary data fort. That fort may have an additional agenda or node installed inside it. If Namatoki Plaza leaves play while installed, and this results in the fort having too many agendas and nodes installed inside it, trash one of those agendas or nodes.",
             "stripped_text": "Rez Namatoki Plaza when you install it. Install Namatoki Plaza only if you can pay to rez it. Install only inside a subsidiary data fort. That fort may have an additional agenda or node installed inside it. If Namatoki Plaza leaves play while installed, and this results in the fort having too many agendas and nodes installed inside it, trash one of those agendas or nodes.",
+            "trash_cost": 1,
             "illustrator": "Chris Vande Voort"
         },
         {
@@ -3583,6 +3619,7 @@
             "cost": 3,
             "text": "Gain an action during each of your turns.\nIf Nevinyrral leaves play while rezzed, you lose the game.\nOnly one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one.",
             "stripped_text": "Gain an action during each of your turns. If Nevinyrral leaves play while rezzed, you lose the game. Only one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one.",
+            "trash_cost": 5,
             "illustrator": "Maria P. Cabardo"
         },
         {
@@ -3613,6 +3650,7 @@
             "cost": 1,
             "text": "All nodes and other upgrades installed inside this fort cost 2[bit], in addition to the normal cost, to trash.\nRez a region when you install it.\nInstall a region only if you can pay to rez it.\nOnly one region may be installed in each fort. Trash older ones.",
             "stripped_text": "All nodes and other upgrades installed inside this fort cost 2 bits, in addition to the normal cost, to trash. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
+            "trash_cost": 4,
             "illustrator": "Craig Hooper"
         },
         {
@@ -3641,6 +3679,7 @@
             "cost": 1,
             "text": "At the start of each run, Runner must pay 1[bit], in addition to any other costs, or end the run.",
             "stripped_text": "At the start of each run, Runner must pay 1 bit, in addition to any other costs, or end the run.",
+            "trash_cost": 0,
             "illustrator": "Kevin Taylor"
         },
         {
@@ -3702,6 +3741,7 @@
             "cost": 0,
             "text": "For half cost, rounded down, rez a piece of ice installed on this fort. Derez that ice at the end of the run. Use this ability only once during each run on this fort.",
             "stripped_text": "For half cost, rounded down, rez a piece of ice installed on this fort. Derez that ice at the end of the run. Use this ability only once during each run on this fort.",
+            "trash_cost": 1,
             "illustrator": "Randy Gallegos"
         },
         {
@@ -3719,6 +3759,7 @@
             "text": "Swap a piece of unrezzed ice on this fort with an ice card stored in HQ. The new ice card comes into play concealed. Use this ability only once during each run on this fort.",
             "stripped_text": "Swap a piece of unrezzed ice on this fort with an ice card stored in HQ. The new ice card comes into play concealed. Use this ability only once during each run on this fort.",
             "flavor": "\"What the...?! That wasn't in the plans!\" —Epitaph",
+            "trash_cost": 3,
             "illustrator": "Doug Shuler"
         },
         {
@@ -3735,6 +3776,7 @@
             "cost": 0,
             "text": "Give Runner a tag at the end of each turn during which Runner received a tag.",
             "stripped_text": "Give Runner a tag at the end of each turn during which Runner received a tag.",
+            "trash_cost": 1,
             "illustrator": "Rob Dixon"
         },
         {
@@ -3810,6 +3852,7 @@
             "cost": 0,
             "text": "You may advance Pacifica Regional AI before and after you rez it.\nRegional AI Advancement counter: Gain an action.",
             "stripped_text": "You may advance Pacifica Regional AI before and after you rez it. Regional AI Advancement counter: Gain an action.",
+            "trash_cost": 0,
             "illustrator": "Chris Vande Voort"
         },
         {
@@ -3842,6 +3885,7 @@
             "cost": 2,
             "text": "Put 3[bit] from the bank on Paris City Grid when you rez it. Use these bits only to pay for traces made during runs on this fort. If you use any of these bits, replace them at the start of your next turn.\nRez a region when you install it.\nInstall a region only if you can pay to rez it.\nOnly one region may be installed in each fort. Trash older ones.",
             "stripped_text": "Put 3 bits from the bank on Paris City Grid when you rez it. Use these bits only to pay for traces made during runs on this fort. If you use any of these bits, replace them at the start of your next turn. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
+            "trash_cost": 6,
             "illustrator": "Mark Tedin"
         },
         {
@@ -4403,6 +4447,7 @@
             "text": "Runner must pay 5[bit], in addition to any other costs, to steal agendas accessed from this fort, even on the run during which Runner trashes Red Herrings.",
             "stripped_text": "Runner must pay 5 bits, in addition to any other costs, to steal agendas accessed from this fort, even on the run during which Runner trashes Red Herrings.",
             "flavor": "\"Frack! It's easier to find things on my floor than in this mess.\"",
+            "trash_cost": 1,
             "illustrator": "Mark Collen"
         },
         {
@@ -4456,6 +4501,7 @@
             "text": "Gain an action during each of your turns.",
             "stripped_text": "Gain an action during each of your turns.",
             "flavor": "\"While moving corporate operations to a remote location increases processing costs, it becomes easier to defend vital information against attempts at hostile acquisition.\" —David Samms, corporate consultant",
+            "trash_cost": 1,
             "illustrator": "Chris Vande Voort"
         },
         {
@@ -4490,6 +4536,7 @@
             "cost": 0,
             "text": "[action]: Note the number of cards stored in HQ. Shuffle those cards into R&D, and then draw that many cards.",
             "stripped_text": "action: Note the number of cards stored in HQ. Shuffle those cards into R&D, and then draw that many cards.",
+            "trash_cost": 3,
             "illustrator": "Mike Kimble"
         },
         {
@@ -4553,6 +4600,7 @@
             "text": "Roll a die whenever Runner passes a piece of rezzed ice during a run on this fort. On a 1, end the run.\nRez a region when you install it.\nInstall a region only if you can pay to rez it.\nOnly one region may be installed in each fort. Trash older ones.",
             "stripped_text": "Roll a die whenever Runner passes a piece of rezzed ice during a run on this fort. On a 1, end the run. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
             "flavor": "\"There's a new jungle in Brazil—the rusted-wire maze of telecom retrotech. Prepare to have your line dropped, and dropped, and dropped, and...\"",
+            "trash_cost": 6,
             "illustrator": "Pete Venters"
         },
         {
@@ -4587,6 +4635,7 @@
             "cost": 4,
             "text": "Put 15[bit] from the bank on Rockerboy Promotion when you rez it. When all the bits have been removed, trash Rockerboy Promotion.\n[action]: Take 3[bit] from Rockerboy Promotion.",
             "stripped_text": "Put 15 bits from the bank on Rockerboy Promotion when you rez it. When all the bits have been removed, trash Rockerboy Promotion. action: Take 3 bits from Rockerboy Promotion.",
+            "trash_cost": 3,
             "illustrator": "John Ramirez"
         },
         {
@@ -4636,6 +4685,7 @@
             "cost": 3,
             "text": "Install only inside a subsidiary data fort. This fort may be run only if you installed or advanced a card inside or on this fort during your last turn.\nRez a region when you install it.\nInstall a region only if you can pay to rez it.\nOnly one region may be installed in each fort. Trash older ones.",
             "stripped_text": "Install only inside a subsidiary data fort. This fort may be run only if you installed or advanced a card inside or on this fort during your last turn. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
+            "trash_cost": 0,
             "illustrator": "Doug Chaffee"
         },
         {
@@ -4653,6 +4703,7 @@
             "text": "Hand size +2",
             "stripped_text": "Hand size +2",
             "flavor": "\"'Systems are heavily monitored, and computer crime treated with draconian ferocity.' Sounds like Heaven.\"",
+            "trash_cost": 2,
             "illustrator": "Anthony Petrarca"
         },
         {
@@ -4685,6 +4736,7 @@
             "text": "[action]: Roll a die. If you roll less than or equal to the number of tags Runner has, Schlaghund does 10 meat damage and you trash Schlaghund.",
             "stripped_text": "action: Roll a die. If you roll less than or equal to the number of tags Runner has, Schlaghund does 10 meat damage and you trash Schlaghund.",
             "flavor": "\"Remember when your mother told you not to pet strange dogs? That's advice to live by.\"",
+            "trash_cost": 4,
             "illustrator": "L.A. Williams"
         },
         {
@@ -4850,6 +4902,7 @@
             "cost": 0,
             "text": "When Runner accesses Setup!, it does 2 Net damage, even if it is not installed. Ignore this effect if Runner accesses it from the Archives. If Setup! is accessed from R&D, Runner must show it to you.",
             "stripped_text": "When Runner accesses Setup!, it does 2 Net damage, even if it is not installed. Ignore this effect if Runner accesses it from the Archives. If Setup! is accessed from R&D, Runner must show it to you.",
+            "trash_cost": 0,
             "illustrator": "Norm Dwyer"
         },
         {
@@ -5012,6 +5065,7 @@
             "cost": 0,
             "text": "Swap a piece of unrezzed ice on this fort with an ice card stored in HQ. The new ice card comes into play concealed. Use this ability only once during each run on this fort.\nRez a region when you install it.\nInstall a region only if you can pay to rez it.\nOnly one region may be installed in each fort. Trash older ones.",
             "stripped_text": "Swap a piece of unrezzed ice on this fort with an ice card stored in HQ. The new ice card comes into play concealed. Use this ability only once during each run on this fort. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
+            "trash_cost": 5,
             "illustrator": "Mike Kimble"
         },
         {
@@ -5026,6 +5080,7 @@
             "text": "Cost to rez black ice is reduced by 2[bit].",
             "stripped_text": "Cost to rez black ice is reduced by 2 bits.",
             "flavor": "\"When you rez this, it's very important you have its administrator be there for it to imprint on him.\"",
+            "trash_cost": 2,
             "illustrator": "Chris Vande Voort"
         },
         {
@@ -5153,6 +5208,7 @@
             "text": "[action]: Do 1 meat damage. Use this ability only if Runner is tagged.",
             "stripped_text": "action: Do 1 meat damage. Use this ability only if Runner is tagged.",
             "flavor": "\"We don't break kneecaps. We derm the perps with a mushroom derivative. It's more fun, more humane... and much more devastating to their fine reflexes and thus their careers.\"",
+            "trash_cost": 3,
             "illustrator": "Ernie Chan"
         },
         {
@@ -5169,6 +5225,7 @@
             "cost": 0,
             "text": "[action], [action], [action]: Gain 6[bit].",
             "stripped_text": "action, action, action: Gain 6 bits.",
+            "trash_cost": 1,
             "illustrator": "Todd Wade"
         },
         {
@@ -5204,6 +5261,7 @@
             "text": "Take 1[bit] from Spinn®️ Public Relations, if it has any bits, at the start of each of your turns.\n[action]: Put 3[bit] from the bank on Spinn®️ Public Relations.",
             "stripped_text": "Take 1 bit from Spinn Public Relations, if it has any bits, at the start of each of your turns. action: Put 3 bits from the bank on Spinn Public Relations.",
             "flavor": "\"Of course it's true! I saw it on the 'vid.\"",
+            "trash_cost": 4,
             "illustrator": "Todd Wade"
         },
         {
@@ -5435,6 +5493,7 @@
             "text": "All ice on this fort has an additional subroutine, \"[subroutine] End the run unless Runner pays 1[bit],\" after all other subroutines.",
             "stripped_text": "All ice on this fort has an additional subroutine, [subroutine] End the run unless Runner pays 1 bit, after all other subroutines.",
             "flavor": "\"So are you upside down, or am I?\"\n\"Depends on how you look at it.\"",
+            "trash_cost": 3,
             "illustrator": "Mark Tedin"
         },
         {
@@ -5536,6 +5595,7 @@
             "cost": 0,
             "text": "Gain 2[bit] after each unsuccessful run on this fort.\nRez a region when you install it.\nInstall a region only if you can pay to rez it.\nOnly one region may be installed in each fort. Trash older ones.",
             "stripped_text": "Gain 2 bits after each unsuccessful run on this fort. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
+            "trash_cost": 6,
             "illustrator": "Mark Collen"
         },
         {
@@ -5597,6 +5657,7 @@
             "cost": 0,
             "text": "If you pay 4[bit] when Runner accesses TRAP!, it does 3 Net damage and gives Runner a tag, even if TRAP! is not installed.\nIgnore this effect if Runner accesses it from the Archives.\nIf TRAP! is accessed from R&D, Runner must show it to you.",
             "stripped_text": "If you pay 4 bits when Runner accesses TRAP!, it does 3 Net damage and gives Runner a tag, even if TRAP! is not installed. Ignore this effect if Runner accesses it from the Archives. If TRAP! is accessed from R&D, Runner must show it to you.",
+            "trash_cost": 0,
             "illustrator": "Mark Collen"
         },
         {
@@ -5660,6 +5721,7 @@
             "cost": 1,
             "text": "Trace 10-If trace is successful, give Runner a tag. Use this ability only when Runner accesses Turbeau Delacroix, and only once during each run on this fort.",
             "stripped_text": "Trace 10-If trace is successful, give Runner a tag. Use this ability only when Runner accesses Turbeau Delacroix, and only once during each run on this fort.",
+            "trash_cost": 2,
             "illustrator": "L.A. Williams"
         },
         {
@@ -5690,6 +5752,7 @@
             "cost": 1,
             "text": "During runs on this fort, Runner cannot use bits from stealth sources.",
             "stripped_text": "During runs on this fort, Runner cannot use bits from stealth sources.",
+            "trash_cost": 2,
             "illustrator": "Mark Collen"
         },
         {
@@ -5773,6 +5836,7 @@
             "text": "You may advance Vacant Soulkiller before and after you rez it.\nWhen Runner accesses Vacant Soulkiller, it does 1 brain damage for each advancement counter on it.",
             "stripped_text": "You may advance Vacant Soulkiller before and after you rez it. When Runner accesses Vacant Soulkiller, it does 1 brain damage for each advancement counter on it.",
             "flavor": "The original Soulkiller started as a matrix to contain artificial personalities, but Arasaka forced the original engineer to enhance the design for its own purposes.",
+            "trash_cost": 0,
             "illustrator": "Larry Friedman"
         },
         {
@@ -5817,6 +5881,7 @@
             "cost": 0,
             "text": "You may advance Vapor Ops before and after you rez it.\nVapor Ops advancement Counter: Gain 1[bit].\n[action]: Move any number of advancement counters from Vapor Ops to another installed card that can be advanced.",
             "stripped_text": "You may advance Vapor Ops before and after you rez it. Vapor Ops advancement Counter: Gain 1 bit. action: Move any number of advancement counters from Vapor Ops to another installed card that can be advanced.",
+            "trash_cost": 1,
             "illustrator": "Craig Hooper"
         },
         {
@@ -5885,6 +5950,7 @@
             "cost": 0,
             "text": "You may advance Virus Test Site before and after you rez it. When Runner accesses Test Site, it does 2 Net damage per advancement counter on it, or 1 Net damage if it has no counters, even if it is not installed or rezzed.\nIgnore this effect if Runner accesses it from the Archives.\nIf Test Site is accessed from R&D, Runner must show it to you.",
             "stripped_text": "You may advance Virus Test Site before and after you rez it. When Runner accesses Test Site, it does 2 Net damage per advancement counter on it, or 1 Net damage if it has no counters, even if it is not installed or rezzed. Ignore this effect if Runner accesses it from the Archives. If Test Site is accessed from R&D, Runner must show it to you.",
+            "trash_cost": 0,
             "illustrator": "Mark Collen"
         },
         {
@@ -5935,6 +6001,7 @@
             "cost": 7,
             "text": "The difficulty of agendas installed inside this fort is reduced by 1.\nRez a region when you install it.\nInstall a region only if you can pay to rez it.\nOnly one region may be installed in each fort. Trash older ones.",
             "stripped_text": "The difficulty of agendas installed inside this fort is reduced by 1. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
+            "trash_cost": 6,
             "illustrator": "Chris Vande Voort"
         },
         {
@@ -6514,6 +6581,7 @@
             "text": "After Runner makes a successful run, you may have Runner shuffle his or her hand into his or her stack and then draw as many cards as he or she had before.",
             "stripped_text": "After Runner makes a successful run, you may have Runner shuffle his or her hand into his or her stack and then draw as many cards as he or she had before.",
             "flavor": "\"But did you <em>get</em> him?\"",
+            "trash_cost": 2,
             "illustrator": "Ian Miller"
         },
         {
@@ -6564,6 +6632,7 @@
             "text": "Runner must pay 1[bit], in addition to the normal cost, to use each subroutine of a noisy icebreaker during runs on this fort.\nRez a region when you install it.\nInstall a region only if you can pay to rez it.\nOnly one region may be installed in each fort. Trash older ones.",
             "stripped_text": "Runner must pay 1 bit, in addition to the normal cost, to use each subroutine of a noisy icebreaker during runs on this fort. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
             "flavor": "London: home to Big Ben, Buckingham Palace, and some of the nastiest, most insidious, and downright brilliant code this side of the Pond.",
+            "trash_cost": 6,
             "illustrator": "Pete Venters"
         },
         {
@@ -6825,6 +6894,7 @@
             "text": "At the start of each of your turns, you may roll a die for each run Runner made during his or her last turn. For each 1, give Runner a tag.",
             "stripped_text": "At the start of each of your turns, you may roll a die for each run Runner made during his or her last turn. For each 1, give Runner a tag.",
             "flavor": "\"Say, isn't that your daughter?\"",
+            "trash_cost": 1,
             "illustrator": "Doug Chaffee"
         },
         {
@@ -6859,6 +6929,7 @@
             "text": "Install Self-Destruct only in a subsidiary data fort.\n[trash]: Trash all other cards installed in or on this data fort. Do 1 Net damage for each card successfully trashed in this way. Use this ability only when Runner accesses Self-Destruct.",
             "stripped_text": "Install Self-Destruct only in a subsidiary data fort. trash: Trash all other cards installed in or on this data fort. Do 1 Net damage for each card successfully trashed in this way. Use this ability only when Runner accesses Self-Destruct.",
             "flavor": "\"This'll ream our bottom line unless we reclassify data-entry clerks as 'consumables.'\"",
+            "trash_cost": 0,
             "illustrator": "Mark Tedin"
         },
         {
@@ -6877,6 +6948,7 @@
             "text": "When Runner accesses Shock Treatment, trash all pieces of hardware and two programs. Ignore this effect unless Runner has four or more tags.",
             "stripped_text": "When Runner accesses Shock Treatment, trash all pieces of hardware and two programs. Ignore this effect unless Runner has four or more tags.",
             "flavor": "\"Yo, Bob, red light. Bob? Red light! Bob, c'mon—I'm serious! GAH! Now there's a <em>fire</em> and a red light! Bob?\"",
+            "trash_cost": 5,
             "illustrator": "Doug Chaffee"
         },
         {
@@ -6892,6 +6964,7 @@
             "text": "3[bit], [trash]: Choose a piece of ice. That ice's strength is doubled until end of turn. If this would raise the ice's strength above 10, ist strength becomes 10.",
             "stripped_text": "3 bits, trash: Choose a piece of ice. That ice's strength is doubled until end of turn. If this would raise the ice's strength above 10, ist strength becomes 10.",
             "flavor": "\"Runners love this one like bikers adore wires across roads.\" —Norman Niemann, WuTech security director",
+            "trash_cost": 0,
             "illustrator": "Kino"
         },
         {
@@ -6910,6 +6983,7 @@
             "text": "Whenever you draw one or more cards, draw an extra card. Then place one of the drawn cards on the bottom of R&D.\nOnly one unique card of a particular name can be in play at a time.\nIf for some reason more than one is in play, trash all but one.",
             "stripped_text": "Whenever you draw one or more cards, draw an extra card. Then place one of the drawn cards on the bottom of R&D. Only one unique card of a particular name can be in play at a time. If for some reason more than one is in play, trash all but one.",
             "flavor": "\"We don't plot; we facilitate.\"",
+            "trash_cost": 4,
             "illustrator": "Doug Chaffee"
         },
         {
@@ -6928,6 +7002,7 @@
             "text": "At the start of each run on this data fort, Runner loses X, where X is equal to the number of tags Runner has.",
             "stripped_text": "At the start of each run on this data fort, Runner loses X, where X is equal to the number of tags Runner has.",
             "flavor": "\"I think you know why I'm here.\"",
+            "trash_cost": 3,
             "illustrator": "Hannibal King"
         },
         {
@@ -7217,6 +7292,7 @@
             "cost": 0,
             "text": "Shuffle Bel-Digmo Antibody into R&D when it is rezzed.\nWhen Runner accesses Bel-Digmo Antibody from R&D, do 1 Net damage, and Runner must show it to you.",
             "stripped_text": "Shuffle Bel-Digmo Antibody into R&D when it is rezzed. When Runner accesses Bel-Digmo Antibody from R&D, do 1 Net damage, and Runner must show it to you.",
+            "trash_cost": 0,
             "illustrator": "Corey Macourek"
         },
         {
@@ -7690,6 +7766,7 @@
             "cost": 1,
             "text": "You may advance Cybertech Think Tank before and after you rez it. Cybertech Think Tank advancement counter: Increase by 1 the meat damage dealt by another source.",
             "stripped_text": "You may advance Cybertech Think Tank before and after you rez it. Cybertech Think Tank advancement counter: Increase by 1 the meat damage dealt by another source.",
+            "trash_cost": 3,
             "illustrator": "Rick Berry"
         },
         {
@@ -7816,6 +7893,7 @@
             "text": "You may rez Department of Misinformation when Runner attempts to expose a card.\n1[bit]: Prevent a card from being exposed.",
             "stripped_text": "You may rez Department of Misinformation when Runner attempts to expose a card. 1 bit: Prevent a card from being exposed.",
             "flavor": "\"I'm sorry, sir, the department you requested does not exist. Could I get your name and number and have them call you back?\"",
+            "trash_cost": 4,
             "illustrator": "Doug Chaffee"
         },
         {
@@ -7909,6 +7987,7 @@
             "cost": 0,
             "text": "When Runner accesses Doppelganger Antibody, you may pay 2[bit] to give Runner a Doppelganger counter, even if Doppelganger is not installed.\nIgnore this effect if Runner accesses Doppelganger from the Archives.\nEach Doppelganger counter causes Runner to lose 1[bit] at the start of each of his or her turns.\nRunner may take an action to pay 4[bit] to remove a Doppelganger counter.\nIf Doppelganger is accessed from R&D, Runner must show it to you.",
             "stripped_text": "When Runner accesses Doppelganger Antibody, you may pay 2 bits to give Runner a Doppelganger counter, even if Doppelganger is not installed. Ignore this effect if Runner accesses Doppelganger from the Archives. Each Doppelganger counter causes Runner to lose 1 bit at the start of each of his or her turns. Runner may take an action to pay 4 bits to remove a Doppelganger counter. If Doppelganger is accessed from R&D, Runner must show it to you.",
+            "trash_cost": 0,
             "illustrator": "David Ho"
         },
         {
@@ -7989,6 +8068,7 @@
             "text": "Discard a card at random: Gain 2[bit]. Use this ability only during a run.\nAt the end of the run, return to the bank any of the 2[bit] you did not spend.",
             "stripped_text": "Discard a card at random: Gain 2 bits. Use this ability only during a run. At the end of the run, return to the bank any of the 2 bits you did not spend.",
             "flavor": "\"You're the one who said, 'When times are tough, everyone has to chip in'!\"",
+            "trash_cost": 2,
             "illustrator": "Zak Plucinski"
         },
         {
@@ -8216,6 +8296,7 @@
             "text": "You may advance Government Contract before and after you rez it.\nGovernment Contract advancement counter: Gain 3[bit]. Use these bits only to pay for installing or rezzing cards.\nWhen the turn ends, return to the bank any of the 3[bit] you did not spend.",
             "stripped_text": "You may advance Government Contract before and after you rez it. Government Contract advancement counter: Gain 3 bits. Use these bits only to pay for installing or rezzing cards. When the turn ends, return to the bank any of the 3 bits you did not spend.",
             "flavor": "\"Of course they won't notice if we skim a little off the top. We're dealing with the government here.\"",
+            "trash_cost": 2,
             "illustrator": "Doug Chaffee"
         },
         {
@@ -8234,6 +8315,7 @@
             "text": "0[bit]: Rearrange the ice installed on this fort. Use this ability only at the start of a run on this data fort.",
             "stripped_text": "0 bits: Rearrange the ice installed on this fort. Use this ability only at the start of a run on this data fort.",
             "flavor": "\"So you say that only a fool would install the Watchdog and Jack Attack inside the black ice? Why don't you run it anyway, just for kicks.\"",
+            "trash_cost": 4,
             "illustrator": "Zak Plucinski"
         },
         {
@@ -8390,6 +8472,7 @@
             "cost": 0,
             "text": "You may advance LDL Traffic Analyzers before and after you rez it.\nYou may rez LDL Traffic Analyzers during a trace attempt.\nLDL Traffic Analyzers advancement counter: Gain 5[bit]. Use this ability only during a trace attempt.\nWhen the trace attempt ends, return to the bank any of the 5[bit] you did not spend.",
             "stripped_text": "You may advance LDL Traffic Analyzers before and after you rez it. You may rez LDL Traffic Analyzers during a trace attempt. LDL Traffic Analyzers advancement counter: Gain 5 bits. Use this ability only during a trace attempt. When the trace attempt ends, return to the bank any of the 5 bits you did not spend.",
+            "trash_cost": 4,
             "illustrator": "Mark Maxwell"
         },
         {
@@ -8408,6 +8491,7 @@
             "strength": 0,
             "text": "Install Lesley Major only in a subsidiary data fort.\n5[bit]: Add two advancement counters, at no cost, to a card installed in this data fort. Use this ability only when Runner passes the last piece of ice on this fort, and only once per run.",
             "stripped_text": "Install Lesley Major only in a subsidiary data fort. 5 bits: Add two advancement counters, at no cost, to a card installed in this data fort. Use this ability only when Runner passes the last piece of ice on this fort, and only once per run.",
+            "trash_cost": 0,
             "illustrator": "Randy Gallegos"
         },
         {
@@ -8463,6 +8547,7 @@
             "text": "1[bit], Discard a card at random: Repeat one subroutine on a piece of ice on this fort, until the end of the run. Treat the copy of the subroutine as if it appeared immediately after the original subroutine. Use this ability only during a run.",
             "stripped_text": "1 bit, Discard a card at random: Repeat one subroutine on a piece of ice on this fort, until the end of the run. Treat the copy of the subroutine as if it appeared immediately after the original subroutine. Use this ability only during a run.",
             "flavor": "\"What do you mean she dumped secret plans for world domination? Somebody's got to unplug that witch!\"",
+            "trash_cost": 2,
             "illustrator": "Phil Hale"
         },
         {
@@ -8546,6 +8631,7 @@
             "cost": 0,
             "text": "2[bit], Trash the top two cards stored in R&D: Repeat one subroutine on a piece of ice on this fort, until the end of the run. Treat the copy of the subroutine as if it appeared immediately after the original subroutine. Use this ability only during a run.",
             "stripped_text": "2 bits, Trash the top two cards stored in R&D: Repeat one subroutine on a piece of ice on this fort, until the end of the run. Treat the copy of the subroutine as if it appeared immediately after the original subroutine. Use this ability only during a run.",
+            "trash_cost": 2,
             "illustrator": "Phil Hale"
         },
         {
@@ -8719,6 +8805,7 @@
             "text": "The difficulty of Gray Ops agendas installed in this fort is reduced by 1.\nRez a region when you install it.\nInstall a region only if you can pay to rez it. Only one region may be installed in each fort.\nTrash older ones.",
             "stripped_text": "The difficulty of Gray Ops agendas installed in this fort is reduced by 1. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
             "flavor": "The LANs and WANs of the late 20th century gave way to SWANs (Super-Wide-Area Networks), which were as graceful at data relay as their acronym suggested.",
+            "trash_cost": 3,
             "illustrator": "Romas Kukalis"
         },
         {
@@ -8733,6 +8820,7 @@
             "cost": 4,
             "text": "At the start of a run on this fort, Runner must announce the number of bits he or she will spend during the run. Runner cannot spend more than this during that run. If Runner does not spend that many bits during that run, the Runner loses the remainder once the run is complete.\nYou may rez Obfuscated Fortress at the start of a run on this fort.",
             "stripped_text": "At the start of a run on this fort, Runner must announce the number of bits he or she will spend during the run. Runner cannot spend more than this during that run. If Runner does not spend that many bits during that run, the Runner loses the remainder once the run is complete. You may rez Obfuscated Fortress at the start of a run on this fort.",
+            "trash_cost": 0,
             "illustrator": "Mark Rattin"
         },
         {
@@ -8763,6 +8851,7 @@
             "text": "Install Panic Button only in HQ.\n1[bit]: Draw a card. Use this ability only during a run on HQ.",
             "stripped_text": "Install Panic Button only in HQ. 1 bit: Draw a card. Use this ability only during a run on HQ.",
             "flavor": "\"As a last resort, I'm trying something I learned from Marketing: bombard him with sexy options and chances are he'll choose something he doesn't need.\"",
+            "trash_cost": 4,
             "illustrator": "Doug Shuler"
         },
         {
@@ -8781,6 +8870,7 @@
             "cost": 0,
             "text": "When Runner accesses Pattel Antibody, you may pay 3[bit] to put a Pattel counter on all installed icebreakers, even if Pattel Antibody is not installed. Ignore this effect if Runner accesses Pattel Antibody from the Archives. Each Pattel counter on an icebreaker reduces its strength by 1.\nIf Pattel Antibody is accessed from R&D, Runner must show it to you.",
             "stripped_text": "When Runner accesses Pattel Antibody, you may pay 3 bits to put a Pattel counter on all installed icebreakers, even if Pattel Antibody is not installed. Ignore this effect if Runner accesses Pattel Antibody from the Archives. Each Pattel counter on an icebreaker reduces its strength by 1. If Pattel Antibody is accessed from R&D, Runner must show it to you.",
+            "trash_cost": 0,
             "illustrator": "Norm Dwyer"
         },
         {
@@ -8799,6 +8889,7 @@
             "text": "Install Pavit only in a subsidiary data fort.\nWhen you rez Pavit, uninstall all cards installed in this fort and store them in HQ. Install an equal number of cards from HQ in this fort.\nRez Pavit only when Runner has passed the last piece of ice on this fort.",
             "stripped_text": "Install Pavit only in a subsidiary data fort. When you rez Pavit, uninstall all cards installed in this fort and store them in HQ. Install an equal number of cards from HQ in this fort. Rez Pavit only when Runner has passed the last piece of ice on this fort.",
             "flavor": "\"Pavit\" means \"pious\"—but hey, it's not like any parents <em>predict</em> their kid will grow up to be a ruthless security agent.",
+            "trash_cost": 0,
             "illustrator": "Zak Plucinski"
         },
         {
@@ -8972,6 +9063,7 @@
             "text": "After Runner passes each piece of ice on this fort, Runner must pay 1[bit] or end the run.",
             "stripped_text": "After Runner passes each piece of ice on this fort, Runner must pay 1 bit or end the run.",
             "flavor": "\"Fifty for the Shotgun Wire, twenty to get past the Filter—even the Hellhound wanted a cool three hundred! That place is worse than a third-world bureaucracy! We should seriously rethink their merger proposal.\" —Erin Devlin, WuTech COO",
+            "trash_cost": 2,
             "illustrator": "Brice Parker"
         },
         {
@@ -8989,6 +9081,7 @@
             "cost": 0,
             "text": "Install Raymond Ellison only in a subsidiary data fort.\n[trash]: Remove any number of advancement counters from cards installed in this data fort. Gain 3[bit] for each advancement counter removed. Use this ability only during a run.\nAt the end of the run, return to the bank any of the bits gained that you did not spend.",
             "stripped_text": "Install Raymond Ellison only in a subsidiary data fort. trash: Remove any number of advancement counters from cards installed in this data fort. Gain 3 bits for each advancement counter removed. Use this ability only during a run. At the end of the run, return to the bank any of the bits gained that you did not spend.",
+            "trash_cost": 2,
             "illustrator": "Phil Hale"
         },
         {
@@ -9079,6 +9172,7 @@
             "text": "The difficulty of research agendas installed in this fort is reduced by 1.\nRez a region when you install it.\nInstall a region only if you can pay to rez it.\nOnly one region may be installed in each fort. Trash older ones.",
             "stripped_text": "The difficulty of research agendas installed in this fort is reduced by 1. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
             "flavor": "\"I want this Proteus ice tested by dawn.\"\n\"But, Dr. Kordite, it's already dawn.\"\n\"Do you think anyone in R&D knows that?\"",
+            "trash_cost": 3,
             "illustrator": "Brice Parker"
         },
         {
@@ -9260,6 +9354,7 @@
             "text": "Install Simon Francisco only in R&D or HQ.\nDuring a run in which Simon is accessed, Runner  accesses one less card stored in this fort.",
             "stripped_text": "Install Simon Francisco only in R&D or HQ. During a run in which Simon is accessed, Runner accesses one less card stored in this fort.",
             "flavor": "\"No, no, we don't have enforcers here at Futokora. You must've met one of our customer service reps.\"",
+            "trash_cost": 3,
             "illustrator": "Randy Gallegos"
         },
         {
@@ -9293,6 +9388,7 @@
             "text": "Rez Siren when you install it. Install Siren only if you can pay to rez it.\n1[bit]: Runner must make a run on the fort Siren is installed in, if possible, instead of on the fort he or she was originally going to make a run on. Use this ability only at the start of a run.",
             "stripped_text": "Rez Siren when you install it. Install Siren only if you can pay to rez it. 1 bit: Runner must make a run on the fort Siren is installed in, if possible, instead of on the fort he or she was originally going to make a run on. Use this ability only at the start of a run.",
             "flavor": "\"They'll come. Just leak one word: 'oops.'\" —Magnificent Curtis",
+            "trash_cost": 0,
             "illustrator": "David Logan"
         },
         {
@@ -9401,6 +9497,7 @@
             "text": "When Runner accesses Stereogram Antibody from the Archives, do 1 Net damage and shuffle Stereogram Antibody into R&D.",
             "stripped_text": "When Runner accesses Stereogram Antibody from the Archives, do 1 Net damage and shuffle Stereogram Antibody into R&D.",
             "flavor": "\"Don't focus on it! Just let your deck's interface routines save you the headache... and the nosebleed from the feedback.\"",
+            "trash_cost": 0,
             "illustrator": "John Sledd"
         },
         {
@@ -9511,6 +9608,7 @@
             "text": "[action]: Trash a rezzed piece of ice. Gain 4[bit].",
             "stripped_text": "action: Trash a rezzed piece of ice. Gain 4 bits.",
             "flavor": "\"Let me get this straight: you ran the databanks of Syd Meyer Superstores with a 'breaker you bought at Syd's? Congrats, you just participated in their standard product-test program.\"",
+            "trash_cost": 2,
             "illustrator": "Mike Kimble"
         },
         {
@@ -9783,6 +9881,7 @@
             "cost": 4,
             "text": "The difficulty of Black Ops agendas installed in this fort is reduced by 1.\nRez a region when you install it.\nInstall a region only if you can pay to rez it.\nOnly one region may be installed in each fort. Trash older ones.",
             "stripped_text": "The difficulty of Black Ops agendas installed in this fort is reduced by 1. Rez a region when you install it. Install a region only if you can pay to rez it. Only one region may be installed in each fort. Trash older ones.",
+            "trash_cost": 3,
             "illustrator": "David Seeley"
         },
         {
